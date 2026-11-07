@@ -1,0 +1,244 @@
+[
+  {
+    "id": "flower-dome",
+    "name": "Flower Dome",
+    "category": "conservatories",
+    "description": "Experience the world's largest column-free conservatory, showcasing plants and flowers from cool-dry regions around the globe.",
+    "mapPosition": {
+      "x": 28,
+      "y": 35
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions/flower-dome.html"
+  },
+  {
+    "id": "cloud-forest",
+    "name": "Cloud Forest",
+    "category": "conservatories",
+    "description": "Discover a misty, mountainous cloud forest ecosystem with the iconic 40-meter tall Supertree-framed waterfall.",
+    "mapPosition": {
+      "x": 42,
+      "y": 32
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions/cloud-forest.html"
+  },
+  {
+    "id": "floral-fantasy",
+    "name": "Floral Fantasy",
+    "category": "must-see",
+    "description": "Enjoy seasonal flower displays showcasing botanical arrangements and creative floral installations.",
+    "mapPosition": {
+      "x": 52,
+      "y": 28
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "supertree-grove",
+    "name": "Supertree Grove",
+    "category": "must-see",
+    "description": "Visit the iconic towering Supertrees, 25-50 meters tall, featuring vertical gardens and nightly light shows.",
+    "mapPosition": {
+      "x": 38,
+      "y": 28
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions/supertree-grove.html"
+  },
+  {
+    "id": "ocbc-skyway",
+    "name": "OCBC Skyway",
+    "category": "must-see",
+    "description": "Experience a 22-meter elevated walkway connecting two Supertrees with panoramic views of the gardens.",
+    "mapPosition": {
+      "x": 40,
+      "y": 26
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions/ocbc-skyway.html"
+  },
+  {
+    "id": "supertree-observatory",
+    "name": "Supertree Observatory",
+    "category": "must-see",
+    "description": "Ascend to the top of a Supertree for breathtaking 360-degree views of Marina Bay and Singapore.",
+    "mapPosition": {
+      "x": 36,
+      "y": 26
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "the-canyon",
+    "name": "The Canyon",
+    "category": "gardens",
+    "description": "Explore a multi-level terraced garden featuring the Heritage Collection with rare and endangered plants.",
+    "mapPosition": {
+      "x": 58,
+      "y": 35
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "children-garden",
+    "name": "Far East Organization Children's Garden",
+    "category": "gardens",
+    "description": "A play garden designed for children with interactive plant-based experiences and water features.",
+    "mapPosition": {
+      "x": 65,
+      "y": 42
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "golden-garden",
+    "name": "Golden Garden",
+    "category": "gardens",
+    "description": "A garden featuring golden-hued plants and flowers creating a warm, welcoming aesthetic.",
+    "mapPosition": {
+      "x": 72,
+      "y": 38
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "floral-clock",
+    "name": "Floral Clock",
+    "category": "gardens",
+    "description": "A living floral display arranged in the shape of a clock, a unique horticultural artwork.",
+    "mapPosition": {
+      "x": 68,
+      "y": 28
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "web-of-life",
+    "name": "Web of Life",
+    "category": "world-of-plants",
+    "description": "Discover the interconnected relationships between plants and the environment in this thematic garden.",
+    "mapPosition": {
+      "x": 78,
+      "y": 42
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "world-of-plants",
+    "name": "World of Plants",
+    "category": "world-of-plants",
+    "description": "Explore diverse plant species and their habitats from different regions across the globe.",
+    "mapPosition": {
+      "x": 85,
+      "y": 38
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "indian-garden",
+    "name": "Indian Garden",
+    "category": "heritage-gardens",
+    "description": "A heritage garden showcasing traditional Indian garden design and culturally significant plants.",
+    "mapPosition": {
+      "x": 18,
+      "y": 48
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "chinese-garden",
+    "name": "Chinese Garden",
+    "category": "heritage-gardens",
+    "description": "A traditional Chinese garden with pavilions, bridges, and plants symbolizing harmony and prosperity.",
+    "mapPosition": {
+      "x": 15,
+      "y": 55
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "malay-garden",
+    "name": "Malay Garden",
+    "category": "heritage-gardens",
+    "description": "A heritage garden reflecting traditional Malay garden design principles and cultural plant uses.",
+    "mapPosition": {
+      "x": 12,
+      "y": 62
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "colonial-garden",
+    "name": "Colonial Garden",
+    "category": "heritage-gardens",
+    "description": "Experience colonial-era garden design with historic plant collections and formal landscaping.",
+    "mapPosition": {
+      "x": 88,
+      "y": 58
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "serene-garden",
+    "name": "Serene Garden",
+    "category": "gardens",
+    "description": "A peaceful retreat garden designed for meditation and contemplation with water features.",
+    "mapPosition": {
+      "x": 82,
+      "y": 48
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "sun-pavilion",
+    "name": "Sun Pavilion",
+    "category": "gardens",
+    "description": "An open-air pavilion featuring sun-loving plants and providing scenic viewpoints.",
+    "mapPosition": {
+      "x": 88,
+      "y": 45
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "silver-garden",
+    "name": "Silver Garden",
+    "category": "gardens",
+    "description": "A garden showcasing silver and grey-foliaged plants creating an ethereal, luminous atmosphere.",
+    "mapPosition": {
+      "x": 75,
+      "y": 58
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "kingfisher-wetlands",
+    "name": "Kingfisher Wetlands",
+    "category": "gardens",
+    "description": "A wetland garden supporting diverse bird species and aquatic plants in a naturalistic setting.",
+    "mapPosition": {
+      "x": 8,
+      "y": 38
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "active-garden",
+    "name": "Active Garden",
+    "category": "gardens",
+    "description": "An interactive garden featuring educational displays about sustainable gardening practices.",
+    "mapPosition": {
+      "x": 75,
+      "y": 18
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  },
+  {
+    "id": "the-meadow",
+    "name": "The Meadow",
+    "category": "gardens",
+    "description": "An open field displaying seasonal wildflower and grass plantings in a natural landscape style.",
+    "mapPosition": {
+      "x": 5,
+      "y": 25
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/attractions.html"
+  }
+]

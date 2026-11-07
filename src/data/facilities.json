@@ -1,0 +1,156 @@
+[
+  {
+    "id": "restroom-01",
+    "name": "Restroom",
+    "category": "facilities",
+    "description": "Well-maintained public restroom facilities conveniently located throughout the gardens for visitor comfort.",
+    "icon": "Bath",
+    "mapPosition": {
+      "x": 45,
+      "y": 52
+    }
+  },
+  {
+    "id": "accessible-restroom-01",
+    "name": "Accessible Restroom",
+    "category": "facilities",
+    "description": "Fully accessible restroom facilities designed for visitors with mobility challenges and special needs.",
+    "icon": "WheelChair",
+    "mapPosition": {
+      "x": 50,
+      "y": 55
+    }
+  },
+  {
+    "id": "info-counter-01",
+    "name": "Information Counter",
+    "category": "facilities",
+    "description": "Knowledgeable staff available to provide directions, recommendations, and visitor information.",
+    "icon": "Info",
+    "mapPosition": {
+      "x": 48,
+      "y": 38
+    }
+  },
+  {
+    "id": "ticketing-01",
+    "name": "Ticketing Area",
+    "category": "facilities",
+    "description": "Purchase admission tickets and passes for attractions in this centralized ticketing area.",
+    "icon": "Ticket",
+    "mapPosition": {
+      "x": 46,
+      "y": 36
+    }
+  },
+  {
+    "id": "first-aid-01",
+    "name": "First Aid",
+    "category": "facilities",
+    "description": "First aid station staffed with medical professionals ready to assist with minor health concerns.",
+    "icon": "Heart",
+    "mapPosition": {
+      "x": 52,
+      "y": 40
+    }
+  },
+  {
+    "id": "nursing-room-01",
+    "name": "Nursing Room",
+    "category": "facilities",
+    "description": "Private, comfortable nursing room provided for mothers with young children.",
+    "icon": "Baby",
+    "mapPosition": {
+      "x": 44,
+      "y": 42
+    }
+  },
+  {
+    "id": "elevator-01",
+    "name": "Elevator",
+    "category": "facilities",
+    "description": "Elevator access for visitors requiring assistance with level changes and accessibility.",
+    "icon": "ArrowUp",
+    "mapPosition": {
+      "x": 55,
+      "y": 45
+    }
+  },
+  {
+    "id": "stairs-01",
+    "name": "Stairs",
+    "category": "facilities",
+    "description": "Stairs providing alternative access routes throughout the gardens for different navigation preferences.",
+    "icon": "Mountain",
+    "mapPosition": {
+      "x": 58,
+      "y": 48
+    }
+  },
+  {
+    "id": "shuttle-stop-01",
+    "name": "Shuttle Stop",
+    "category": "facilities",
+    "description": "Complimentary shuttle service stop for convenient transportation between different garden areas.",
+    "icon": "Bus",
+    "mapPosition": {
+      "x": 5,
+      "y": 15
+    }
+  },
+  {
+    "id": "bus-stop-01",
+    "name": "Bus Stop",
+    "category": "facilities",
+    "description": "Public bus stop providing connections to nearby transit hubs and other Singapore attractions.",
+    "icon": "Bus",
+    "mapPosition": {
+      "x": 8,
+      "y": 12
+    }
+  },
+  {
+    "id": "parking-01",
+    "name": "Parking",
+    "category": "facilities",
+    "description": "On-site parking with convenient vehicle storage for guest and tourist transportation.",
+    "icon": "ParkingCircle",
+    "mapPosition": {
+      "x": 10,
+      "y": 10
+    }
+  },
+  {
+    "id": "taxi-stand-01",
+    "name": "Taxi Stand",
+    "category": "facilities",
+    "description": "Designated taxi stand for easy access to taxi services and convenient departure.",
+    "icon": "Taxi",
+    "mapPosition": {
+      "x": 12,
+      "y": 8
+    }
+  },
+  {
+    "id": "bike-parking-01",
+    "name": "Bicycle Parking",
+    "category": "facilities",
+    "description": "Secure bicycle parking facilities for guests arriving on two-wheelers.",
+    "icon": "Bike",
+    "mapPosition": {
+      "x": 6,
+      "y": 8
+    }
+  },
+  {
+    "id": "gift-shop-01",
+    "name": "Gift Shop",
+    "category": "facilities",
+    "description": "Shop featuring souvenirs, plants, and exclusive merchandise from Gardens by the Bay.",
+    "icon": "Gift",
+    "mapPosition": {
+      "x": 49,
+      "y": 38
+    }
+  }
+]

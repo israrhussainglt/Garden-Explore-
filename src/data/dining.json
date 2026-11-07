@@ -1,0 +1,62 @@
+[
+  {
+    "id": "garden-cafe",
+    "name": "Garden Cafe",
+    "category": "dining",
+    "description": "Casual dining with garden views serving light meals and refreshments.",
+    "icon": "Coffee",
+    "mapPosition": {
+      "x": 62,
+      "y": 38
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/plan-your-visit/dining.html"
+  },
+  {
+    "id": "gourmet-garden",
+    "name": "Gourmet Garden",
+    "category": "dining",
+    "description": "Fine dining restaurant featuring contemporary cuisine with garden views.",
+    "icon": "UtensilsCrossed",
+    "mapPosition": {
+      "x": 58,
+      "y": 42
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/plan-your-visit/dining.html"
+  },
+  {
+    "id": "tropical-juice-bar",
+    "name": "Tropical Juice Bar",
+    "category": "dining",
+    "description": "Fresh juices, smoothies, and light bites in a tropical setting.",
+    "icon": "Citrus",
+    "mapPosition": {
+      "x": 68,
+      "y": 45
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/plan-your-visit/dining.html"
+  },
+  {
+    "id": "heritage-restaurant",
+    "name": "Heritage Restaurant",
+    "category": "dining",
+    "description": "Authentic cuisine celebrating the heritage gardens with traditional dishes.",
+    "icon": "Utensils",
+    "mapPosition": {
+      "x": 22,
+      "y": 52
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/plan-your-visit/dining.html"
+  },
+  {
+    "id": "cloud-forest-cafe",
+    "name": "Cloud Forest Cafe",
+    "category": "dining",
+    "description": "Cozy cafe inside the Cloud Forest with specialty coffee and pastries.",
+    "icon": "Coffee",
+    "mapPosition": {
+      "x": 42,
+      "y": 35
+    },
+    "officialUrl": "https://www.gardensbythebay.com.sg/en/plan-your-visit/dining.html"
+  }
+]

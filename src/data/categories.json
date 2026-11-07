@@ -1,0 +1,34 @@
+[
+  {
+    "id": "all",
+    "name": "All Locations"
+  },
+  {
+    "id": "must-see",
+    "name": "Must-See Attractions"
+  },
+  {
+    "id": "conservatories",
+    "name": "Conservatories"
+  },
+  {
+    "id": "gardens",
+    "name": "Gardens"
+  },
+  {
+    "id": "world-of-plants",
+    "name": "World of Plants"
+  },
+  {
+    "id": "heritage-gardens",
+    "name": "Heritage Gardens"
+  },
+  {
+    "id": "dining",
+    "name": "Dining"
+  },
+  {
+    "id": "facilities",
+    "name": "Visitor Facilities"
+  }
+]

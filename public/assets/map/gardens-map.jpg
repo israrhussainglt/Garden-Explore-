@@ -1,0 +1,2669 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Gardens by the Bay</title>
+    
+    <meta name="description" content="Rated No. 8 World&#39;s Top Attraction by Tripadvisor 2024 Travellers&#39; Choice, Gardens by the Bay is one of Asia’s premier horticultural destinations. Discover a scenic paradise for nature and photography enthusiasts, as well as for the whole family!"/>
+    <meta name="template" content="page-home-template"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+<link rel="canonical" href="https://www.gardensbythebay.com.sg/"/>
+
+    
+    <meta property="og:title" content="Gardens by the Bay"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.gardensbythebay.com.sg/"/>
+    <meta property="og:image" content="https://gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/attractions/supertree-grove/main/supertree-grove-main.jpg"/>
+    <meta property="og:description" content="One of Asia’s premier horticultural destinations, Gardens by the Bay offers a scenic paradise for nature and photography lovers, as well as the whole family. Come explore its world-class attractions! "/>
+    <meta property="og:category"/>
+
+
+
+
+    
+
+
+  
+    <script id="cookieyes-script" type="text/javascript" src="https://cdn-cookieyes.com/client_data/7494e66cda941a4df3186473a649558d/script.js"></script>
+  
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17986466785"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-17986466785');
+      
+      if (window.location.pathname.includes('/sakura-2026')) {
+        gtag('event', 'conversion', {
+          'send_to': 'AW-17986466785/Ii8JCKTLvYIcEOHnzoBD'
+        });
+      }
+      
+      if (window.location.hostname === 'ticket3.gardensbythebay.com.sg' && 
+          window.location.pathname.includes('/checkout/payment/success')) {
+        gtag('event', 'conversion', {
+          'send_to': 'AW-17986466785/GvJLCIycq4IcEOHnzoBD'
+        });
+      }
+      
+      if (window.location.hostname === 'ticket2.gardensbythebay.com.sg' && 
+          window.location.pathname.includes('/checkout/payment/success')) {
+        gtag('event', 'conversion', {
+          'send_to': 'AW-17986466785/NhnjCI-cq4IcEOHnzoBD'
+        });
+      }
+    </script>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-57x57.png"/>
+<link rel="apple-touch-icon" sizes="60x60" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-60x60.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-72x72.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-76x76.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-114x114.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-120x120.png"/>
+<link rel="apple-touch-icon" sizes="144x144" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-144x144.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-152x152.png"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-180x180.png"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/android-chrome-192x192.png" sizes="192x192"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/favicon-96x96.png" sizes="96x96"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/favicon-16x16.png" sizes="16x16"/>
+<link rel="manifest" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/manifest.json"/>
+<meta name="msapplication-TileColor" content="#e11350"/>
+<meta name="msapplication-TileImage" content="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/mstile-144x144.png"/>
+<meta name="google-site-verification" content="wQoxyVHI-Xj0hK-J-VPd64-Z0CLqSvmtWmMCl54KVF4"/>
+<meta name="facebook-domain-verification"/>
+
+<link rel="preconnect" href="https://fonts.gstatic.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet"/>
+<style>
+		[v-cloak] {
+			display: none;
+		}
+</style>
+
+
+    
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer',"GTM-N3ZSN2B");</script>
+    
+
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N3ZSN2B" height="0" width="0" style="display:none;visibility:hidden" title="gtm"></iframe></noscript>
+    
+
+    
+    
+    
+
+    
+
+    
+    
+<script src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies.min.654a528b735528a48a81fb94b326177a.js"></script>
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies.min.6df5e7fdf2ac8044419d855a15b8024c.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-base.min.c9394a74d5ab79880f20559b463263cb.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site.min.67cf5adc990efae20055a8738521888c.css" type="text/css">
+
+
+
+    
+
+    
+    <link rel="icon" sizes="192x192" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/icon-192x192.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/apple-touch-icon-180x180.png"/>
+    <link rel="apple-touch-icon" sizes="167x167" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/apple-touch-icon-167x167.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/apple-touch-icon-120x120.png"/>
+    <meta name="msapplication-square310x310logo" content="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/icon-310x310.png"/>
+    <meta name="msapplication-wide310x150logo" content="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/icon-310x150.png"/>
+    <meta name="msapplication-square150x150logo" content="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/icon-150x150.png"/>
+    <meta name="msapplication-square70x70logo" content="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/icon-70x70.png"/>
+
+    
+</head>
+<body class="t-cmp-clean t-cmp-clean--light page basicpage" id="page-503ec57db6" data-cmp-data-layer-enabled="false" data-flipbookpath="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources">
+
+
+
+    
+
+
+
+
+    
+    <div id="fb-root"></div>
+
+
+
+
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v9.0"></script>
+
+
+
+
+
+
+
+    
+<div class="root container responsivegrid">
+
+    
+    
+    
+    <div id="container-c2288ca042" class="cmp-container">
+        
+        <div class="experiencefragment">
+<div id="experiencefragment-6beaa29e94" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+    
+    <div id="container-31e0faf9c2" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="announcement-container aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+    
+
+
+
+<div class="announcement component" data-autoplayspeed="8000" data-popup="true" data-expire="6">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 announcement--left">
+                <div class="announcement--content">
+                    <div class="announcement--view">
+                        <a href="javascript:void(0);" data-toggle="modal" class="announcement--view--link" data-target="#announcement-modal">View</a>
+                    </div>
+                    <div class="announcement--counter">
+                        <a href="javascript:void(0);" class="announcement--prev" id="announcement--prev">
+                            <i class="gbb-arrow-left"></i>
+                        </a>
+                        <span data-counter="counter"></span>
+                        <a href="javascript:void(0);" class="announcement--next" id="announcement--next">
+                            <i class="gbb-arrow-right"></i>
+                        </a>
+                    </div>
+                    <div class="announcement--carousel">
+                        <div class="announcement--slide">
+                            <div class="announcement--title">
+                                <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/icons-images/icons-small-alert.svg" alt="Alert"/>
+                                <strong>Advisory for use of tripods at Disney Garden of Wonder at Floral Fantasy</strong>
+                            </div>
+                        </div>
+                    
+                        <div class="announcement--slide">
+                            <div class="announcement--title">
+                                <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/icons-images/icons-small-alert.svg" alt="Alert"/>
+                                <strong>Bay South–Bay East Bridge Construction from 4 May 2026</strong>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 announcement--right">
+                <a href="javascript:void(0);" data-toggle="modal" class="announcement--view--link" data-target="#announcement-modal">
+                    View
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="announcement-modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="announcement--nav">
+                    <a href="javascript:void(0);" class="announcement--prev" id="announcement--prev"><i class="gbb-arrow-left"></i></a>
+                    <a href="javascript:void(0);" class="announcement--next" id="announcement--next"><i class="gbb-arrow-right"></i></a>
+                </div>
+                <div class="modal-body">
+                    <div class="announcement--close">
+                        <a href="javascript:void(0);" data-dismiss="modal" aria-label="Close"></a>
+                    </div>
+                    <div class="announcement--modal-counter">
+                        <span data-counter="counter"></span>
+                    </div>
+
+                    <div class="announcement--modal-wrapper">
+                        <div class="announcement--modal-carousel">
+                            <div class="announcement--slide">
+                                <div class="announcement--title">
+                                    <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/icons-images/icons-small-alert.svg" alt="Alert"/>
+                                    <strong>Advisory for use of tripods at Disney Garden of Wonder at Floral Fantasy</strong>
+                                </div>
+                                <p>For a better visiting experience and facilitate crowd movement, we seek your kind understanding that usage of tripods and camera stands will not be permitted in Floral Fantasy.</p>
+
+                            </div>
+                        
+                            <div class="announcement--slide">
+                                <div class="announcement--title">
+                                    <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/icons-images/icons-small-alert.svg" alt="Alert"/>
+                                    <strong>Bay South–Bay East Bridge Construction from 4 May 2026</strong>
+                                </div>
+                                <p>To facilitate the construction of the bridge linking Bay South Garden and Bay East Garden, there will be no access for cyclists along the Waterfront Promenade from 4 May 2026. During the construction of the bridge, cyclists heading towards Marina Barrage are advised to take an alternative route around the perimeter of Bay South Garden. Pedestrians may still access the Waterfront Promenade, with a slight diversion to their route. </p>
+<p><a href="/content/dam/gbb-2021/image/plan-your-visit/visiting-guidelines/Route%20diversion%20map%20of%20Bay%20South.jpg" target="_blank">Click here</a> to download the diversion map.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="announcement--dots"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="mainnavigation aem-GridColumn aem-GridColumn--default--12">
+
+
+
+    <nav class="navigation--dark">
+
+        
+
+
+
+
+
+    
+
+    
+    <div class="navigation navigation--desktop navigation--utility">
+        <div class="utility-navbar">
+            <div class="utility-groups container">
+                <div class="utility-group">
+                    <ul class="utility-list">
+                        <li class="utility-listitem">
+                            <a class="utility-listitem__link" href="/en/be-a-member.html" target="_self">
+                                <span>Be a Member</span>
+                            </a>
+                        </li>
+                    
+                        <li class="utility-listitem">
+                            <a class="utility-listitem__link" href="/en/promotions.html" target="_self">
+                                <span>View Promotions</span>
+                            </a>
+                        </li>
+                    
+                        <li class="utility-listitem">
+                            <a class="utility-listitem__link" href="https://shop.gardensbythebay.com.sg/" target="_blank">
+                                <span>eShop</span>
+                            </a>
+                        </li>
+                    
+                        <li class="utility-listitem">
+                            <a class="utility-listitem__link" href="/en/book-a-venue.html" target="_self">
+                                <span>Book a Venue</span>
+                            </a>
+                        </li>
+                    
+                        <li class="utility-listitem">
+                            <a class="utility-listitem__link" href="/en/support-us.html" target="_self">
+                                <span>Support Us</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="utility-group">
+                    <ul class="utility-list">
+                        <li class="utility-listitem">
+                            <a class="utility-listitem__link member-login" href="https://friends.gardensbythebay.com.sg/" target="_blank">
+                                <i class="gbb-login"></i>
+                                <span>Member Login </span>
+                            </a>
+                        </li>
+                        
+                        <li class="utility-listitem search-button">
+                            <div class="dropdown">
+                                <a data-toggle="modal" data-target="#search-overlay" class="utility-listitem__link" role="button" id="search-bar">
+                                    <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/icons-images/icons-search.png" alt="Gardens by the Bay search"/>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="navigation navigation--hamburger navigation--utility">
+        
+        <div class="utility-navbar">
+            <div class="utility-groups container">
+                <div class="utility-group">
+                    <ul class="utility-list">
+                        <li class="utility-listitem">
+                            <a class="utility-listitem__link member-login" href="https://friends.gardensbythebay.com.sg/" target="_blank">
+                                <i class="gbb-login"></i>
+                                <span>Member Login</span>
+                            </a>
+                        </li>
+                        <li class="utility-listitem search-button">
+                            <div class="dropdown">
+                                <a data-toggle="modal" data-target="#search-overlay" class="utility-listitem__link" role="button" id="search-bar">
+                                    <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/icons-images/icons-search.png" alt="search icon"/>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+
+        <div class="navigation navigation--desktop navigation--main" data-component="navigation">
+            <div class="main-navbar">
+                <div class="nav-groups container">
+                    <div class="nav-group">
+                        
+
+
+    <a class="nav-link nav-logo" href="/" target="_self">
+		<img class="nav-logo__image collapsed" src="/content/dam/gbb-2021/image/test/GBTB_white_landscape_logo.png" alt="Gardens by the Bay"/>
+		
+		<img class="nav-logo__image" src="/content/dam/gbb-2021/image/test/GBTB_grey_landscape_logo.png" alt="Gardens by the Bay"/>
+		
+		<span class="d-none">Gardens by the Bay</span>
+    </a>
+
+                    </div>
+                    <div class="nav-group">
+                        <ul class="nav-list">
+                            <li class="nav-listitem">
+                                
+                                <div class="dropdown position-static" data-nav="dropdown">
+                                    <a href="/en/about-us/our-gardens-story.html" target="_self" class="main-navigation-link" id="our-gardens-story-1794067226225" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span>Our Gardens Story</span>
+                                    </a>
+
+                                    <div class="dropdown-menu w-100" aria-labelledby="our-gardens-story-1794067226225">
+                                        <div class="menu container">
+                                            <div class="row menu-primary">
+                                                <div class="col-9">
+                                                    <a class="menu-main-link" href="/en/about-us/our-gardens-story.html">
+                                                        <h6>Our Gardens Story</h6>
+                                                        <i class="gbb-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="row menu-primary">
+                                                <div class="row menu-secondary col-9">
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/about-us/our-gardens-story/our-story.html" target="_self">
+                <span>Our Story</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/about-us/our-gardens-story/our-history.html" target="_self">
+                <span>Our History</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/about-us/our-gardens-story/sustainability-efforts.html" target="_self">
+                <span>Sustainability Efforts</span>
+                
+            </a>
+        
+
+                                                    </div>
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+
+                                                    </div>
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+
+                                                    </div>
+                                                </div>
+                                                
+    
+
+    
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        
+                            <li class="nav-listitem">
+                                
+                                <div class="dropdown position-static" data-nav="dropdown">
+                                    <a href="/en/things-to-do.html" target="_self" class="main-navigation-link" id="things-to-do-1794067226226" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span>Things to do</span>
+                                    </a>
+
+                                    <div class="dropdown-menu w-100" aria-labelledby="things-to-do-1794067226226">
+                                        <div class="menu container">
+                                            <div class="row menu-primary">
+                                                <div class="col-9">
+                                                    <a class="menu-main-link" href="/en/things-to-do.html">
+                                                        <h6>Things to do</h6>
+                                                        <i class="gbb-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="row menu-primary">
+                                                <div class="row menu-secondary col-9">
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/flower-dome.html" target="_self">
+                <span>Flower Dome</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/cloud-forest.html" target="_self">
+                <span>Cloud Forest</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/floral-fantasy.html" target="_self">
+                <span>Floral Fantasy</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/ocbc-skyway.html" target="_self">
+                <span>OCBC Skyway</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/supertree-observatory.html" target="_self">
+                <span>Supertree Observatory</span>
+                
+            </a>
+        
+            <a class="menu-main-link menu-main-link--highlight" href="/en/things-to-do/attractions.html" target="_self">
+                <span>View all Attractions</span>
+                <i class="gbb-arrow-right"></i>
+            </a>
+        
+
+                                                    </div>
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/things-to-do/imba-theatre.html" target="_self">
+                <span>IMBA Theatre</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/garden-pod.html" target="_self">
+                <span>Garden Pod</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/art-sculptures.html" target="_self">
+                <span>Art Sculptures</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/calendar-of-events.html" target="_self">
+                <span>Calendar of Events</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/dine-and-shop.html" target="_self">
+                <span>Dine &amp; Shop</span>
+                
+            </a>
+        
+
+                                                    </div>
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+
+                                                    </div>
+                                                </div>
+                                                
+    
+
+    
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        
+                            <li class="nav-listitem">
+                                
+                                <div class="dropdown position-static" data-nav="dropdown">
+                                    <a href="/en/plan-your-visit.html" target="_self" class="main-navigation-link" id="plan-your-visit-1794067226229" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span>Plan your visit</span>
+                                    </a>
+
+                                    <div class="dropdown-menu w-100" aria-labelledby="plan-your-visit-1794067226229">
+                                        <div class="menu container">
+                                            <div class="row menu-primary">
+                                                <div class="col-9">
+                                                    <a class="menu-main-link" href="/en/plan-your-visit.html">
+                                                        <h6>Plan your visit</h6>
+                                                        <i class="gbb-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="row menu-primary">
+                                                <div class="row menu-secondary col-9">
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/opening-hours.html" target="_self">
+                <span>Opening Hours &amp; Closures</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/getting-here.html" target="_self">
+                <span>Getting Here &amp; Parking</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/itinerary-planner.html" target="_self">
+                <span>Itinerary Planner</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/gardens-map.html" target="_self">
+                <span>Gardens Map</span>
+                
+            </a>
+        
+
+                                                    </div>
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/amenities-and-services.html" target="_self">
+                <span>Amenities &amp; Services</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/information-guides.html" target="_self">
+                <span>Information Guides</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/visiting-guidelines.html" target="_self">
+                <span>Visiting Guidelines</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/mobile-apps-and-travel-guide.html" target="_self">
+                <span>Mobile Apps &amp; Travel Guide</span>
+                
+            </a>
+        
+
+                                                    </div>
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+
+                                                    </div>
+                                                </div>
+                                                
+    
+
+    
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        
+                            <li class="nav-listitem">
+                                
+                                <div class="dropdown position-static" data-nav="dropdown">
+                                    <a href="/en/learn-with-us.html" target="_self" class="main-navigation-link" id="learn-with-us-1794067226230" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <span>Learn with us</span>
+                                    </a>
+
+                                    <div class="dropdown-menu w-100" aria-labelledby="learn-with-us-1794067226230">
+                                        <div class="menu container">
+                                            <div class="row menu-primary">
+                                                <div class="col-9">
+                                                    <a class="menu-main-link" href="/en/learn-with-us.html">
+                                                        <h6>Learn with us</h6>
+                                                        <i class="gbb-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="row menu-primary">
+                                                <div class="row menu-secondary col-9">
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+            <a class="menu-main-link menu-main-link--highlight" href="/en/learn-with-us/for-schools.html" target="_self">
+                <span>For Schools</span>
+                <i class="gbb-arrow-right"></i>
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/pre-school-programmes.html" target="_self">
+                <span>Pre-School</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/primary-school-programmes.html" target="_self">
+                <span>Primary School</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/secondary-school-programmes.html" target="_self">
+                <span>Secondary School</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/school-engagement.html" target="_self">
+                <span>School Engagement</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/learning-activities.html" target="_self">
+                <span>Learning Activities</span>
+                
+            </a>
+        
+
+                                                    </div>
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+            <a class="menu-main-link menu-main-link--highlight" href="/en/learn-with-us/explore-resources.html" target="_self">
+                <span>Explore Resources</span>
+                <i class="gbb-arrow-right"></i>
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/whats-visiting.html" target="_self">
+                <span>What&#39;s Visiting</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/whats-blooming.html" target="_self">
+                <span>What&#39;s Blooming</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/articles.html" target="_self">
+                <span>Articles</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/crafts-and-worksheets.html" target="_self">
+                <span>Crafts &amp; Worksheets</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/bloom-plantkeepers-of-the-bay.html" target="_self">
+                <span>Comics</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/e-books.html" target="_self">
+                <span>E-books</span>
+                
+            </a>
+        
+
+                                                    </div>
+                                                    <div class="col-4">
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/videos.html" target="_self">
+                <span>Videos</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/plant-doctor-ask-us-anything-form.html" target="_self">
+                <span>Plant Doctor</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/creator-voices.html" target="_self">
+                <span>Creator Voices</span>
+                
+            </a>
+        
+
+                                                    </div>
+                                                </div>
+                                                
+    
+
+    
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="nav-group">
+                        
+    <a class="nav-button button" target="_blank" href="https://ticket.gardensbythebay.com.sg">
+        <div>Buy Tickets</div>
+    </a>
+
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <div class="navigation navigation--hamburger navigation--main" data-component="navigation">
+            
+            <div class="main-navbar">
+                <div class="nav-groups container">
+                    <div class="nav-group">
+                        
+
+
+    <a class="nav-link nav-logo" href="/" target="_self">
+		<img class="nav-logo__image collapsed" src="/content/dam/gbb-2021/image/test/GBTB_white_landscape_logo.png" alt="Gardens by the Bay"/>
+		
+		<img class="nav-logo__image" src="/content/dam/gbb-2021/image/test/GBTB_grey_landscape_logo.png" alt="Gardens by the Bay"/>
+		
+		<span class="d-none">Gardens by the Bay</span>
+    </a>
+
+                    </div>
+                    <div class="nav-group">
+                        
+    <a class="nav-button button" target="_blank" href="https://ticket.gardensbythebay.com.sg">
+        <div>Buy Tickets</div>
+    </a>
+
+
+                        <button class="hamburger-button" data-toggle="modal" data-target="#navbarModal">
+                            <i class="gbb-menu"></i>
+                        </button>
+
+                        <div class="modal fade full-screen" id="navbarModal" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        
+
+    <a class="nav-link nav-logo" href="/" target="_self">
+		<img class="nav-logo__image" src="/content/dam/gbb-2021/image/test/GBTB_grey_landscape_logo.png" alt="Gardens by the Bay"/>
+		
+		<span class="d-none">Gardens by the Bay</span>
+    </a>
+
+
+                                        <div class="nav-group">
+                                            
+    <a class="nav-button button" target="_blank" href="https://ticket.gardensbythebay.com.sg">
+        <div>Buy Tickets</div>
+    </a>
+
+
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <i class="gbb-clear"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="main-menu">
+                                            <ul class="nav-list">
+                                                
+                                                <li class="nav-listitem">
+                                                    
+                                                    <div class="menu-toggle" data-toggle="submenu">
+                                                        <span>Our Gardens Story</span>
+                                                        <i class="gbb-arrow-right"></i>
+                                                    </div>
+
+                                                    <div class="sub-menu" data-submenu>
+                                                        <div class="menu-toggle" data-toggle="submenu">
+                                                            <i class="gbb-arrow-left"></i>
+                                                            <span>Back</span>
+                                                        </div>
+
+                                                        
+        
+
+
+                                                        <a class="menu-main-link" href="/en/about-us/our-gardens-story.html" target="_self">
+                                                            <h6>Our Gardens Story</h6>
+                                                            <i class="gbb-arrow-right"></i>
+                                                        </a>
+
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/about-us/our-gardens-story/our-story.html" target="_self">
+                <span>Our Story</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/about-us/our-gardens-story/our-history.html" target="_self">
+                <span>Our History</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/about-us/our-gardens-story/sustainability-efforts.html" target="_self">
+                <span>Sustainability Efforts</span>
+                
+            </a>
+        
+
+                                                        
+        
+
+                                                        
+        
+
+                                                    </div>
+                                                </li>
+                                            
+                                                
+                                                <li class="nav-listitem">
+                                                    
+                                                    <div class="menu-toggle" data-toggle="submenu">
+                                                        <span>Things to do</span>
+                                                        <i class="gbb-arrow-right"></i>
+                                                    </div>
+
+                                                    <div class="sub-menu" data-submenu>
+                                                        <div class="menu-toggle" data-toggle="submenu">
+                                                            <i class="gbb-arrow-left"></i>
+                                                            <span>Back</span>
+                                                        </div>
+
+                                                        
+        
+
+
+                                                        <a class="menu-main-link" href="/en/things-to-do.html" target="_self">
+                                                            <h6>Things to do</h6>
+                                                            <i class="gbb-arrow-right"></i>
+                                                        </a>
+
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/flower-dome.html" target="_self">
+                <span>Flower Dome</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/cloud-forest.html" target="_self">
+                <span>Cloud Forest</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/floral-fantasy.html" target="_self">
+                <span>Floral Fantasy</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/ocbc-skyway.html" target="_self">
+                <span>OCBC Skyway</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/supertree-observatory.html" target="_self">
+                <span>Supertree Observatory</span>
+                
+            </a>
+        
+            <a class="menu-main-link menu-main-link--highlight" href="/en/things-to-do/attractions.html" target="_self">
+                <span>View all Attractions</span>
+                <i class="gbb-arrow-right"></i>
+            </a>
+        
+
+                                                        
+        
+            <a class="menu-main-link" href="/en/things-to-do/imba-theatre.html" target="_self">
+                <span>IMBA Theatre</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/garden-pod.html" target="_self">
+                <span>Garden Pod</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/attractions/art-sculptures.html" target="_self">
+                <span>Art Sculptures</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/calendar-of-events.html" target="_self">
+                <span>Calendar of Events</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/things-to-do/dine-and-shop.html" target="_self">
+                <span>Dine &amp; Shop</span>
+                
+            </a>
+        
+
+                                                        
+        
+
+                                                    </div>
+                                                </li>
+                                            
+                                                
+                                                <li class="nav-listitem">
+                                                    
+                                                    <div class="menu-toggle" data-toggle="submenu">
+                                                        <span>Plan your visit</span>
+                                                        <i class="gbb-arrow-right"></i>
+                                                    </div>
+
+                                                    <div class="sub-menu" data-submenu>
+                                                        <div class="menu-toggle" data-toggle="submenu">
+                                                            <i class="gbb-arrow-left"></i>
+                                                            <span>Back</span>
+                                                        </div>
+
+                                                        
+        
+
+
+                                                        <a class="menu-main-link" href="/en/plan-your-visit.html" target="_self">
+                                                            <h6>Plan your visit</h6>
+                                                            <i class="gbb-arrow-right"></i>
+                                                        </a>
+
+                                                        
+                                                        
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/opening-hours.html" target="_self">
+                <span>Opening Hours &amp; Closures</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/getting-here.html" target="_self">
+                <span>Getting Here &amp; Parking</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/itinerary-planner.html" target="_self">
+                <span>Itinerary Planner</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/gardens-map.html" target="_self">
+                <span>Gardens Map</span>
+                
+            </a>
+        
+
+                                                        
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/amenities-and-services.html" target="_self">
+                <span>Amenities &amp; Services</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/information-guides.html" target="_self">
+                <span>Information Guides</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/visiting-guidelines.html" target="_self">
+                <span>Visiting Guidelines</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/plan-your-visit/mobile-apps-and-travel-guide.html" target="_self">
+                <span>Mobile Apps &amp; Travel Guide</span>
+                
+            </a>
+        
+
+                                                        
+        
+
+                                                    </div>
+                                                </li>
+                                            
+                                                
+                                                <li class="nav-listitem">
+                                                    
+                                                    <div class="menu-toggle" data-toggle="submenu">
+                                                        <span>Learn with us</span>
+                                                        <i class="gbb-arrow-right"></i>
+                                                    </div>
+
+                                                    <div class="sub-menu" data-submenu>
+                                                        <div class="menu-toggle" data-toggle="submenu">
+                                                            <i class="gbb-arrow-left"></i>
+                                                            <span>Back</span>
+                                                        </div>
+
+                                                        
+        
+
+
+                                                        <a class="menu-main-link" href="/en/learn-with-us.html" target="_self">
+                                                            <h6>Learn with us</h6>
+                                                            <i class="gbb-arrow-right"></i>
+                                                        </a>
+
+                                                        
+                                                        
+        
+            <a class="menu-main-link menu-main-link--highlight" href="/en/learn-with-us/for-schools.html" target="_self">
+                <span>For Schools</span>
+                <i class="gbb-arrow-right"></i>
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/pre-school-programmes.html" target="_self">
+                <span>Pre-School</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/primary-school-programmes.html" target="_self">
+                <span>Primary School</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/secondary-school-programmes.html" target="_self">
+                <span>Secondary School</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/school-engagement.html" target="_self">
+                <span>School Engagement</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/for-schools/learning-activities.html" target="_self">
+                <span>Learning Activities</span>
+                
+            </a>
+        
+
+                                                        
+        
+            <a class="menu-main-link menu-main-link--highlight" href="/en/learn-with-us/explore-resources.html" target="_self">
+                <span>Explore Resources</span>
+                <i class="gbb-arrow-right"></i>
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/whats-visiting.html" target="_self">
+                <span>What&#39;s Visiting</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/whats-blooming.html" target="_self">
+                <span>What&#39;s Blooming</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/articles.html" target="_self">
+                <span>Articles</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/crafts-and-worksheets.html" target="_self">
+                <span>Crafts &amp; Worksheets</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/bloom-plantkeepers-of-the-bay.html" target="_self">
+                <span>Comics</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/e-books.html" target="_self">
+                <span>E-books</span>
+                
+            </a>
+        
+
+                                                        
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/videos.html" target="_self">
+                <span>Videos</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/plant-doctor-ask-us-anything-form.html" target="_self">
+                <span>Plant Doctor</span>
+                
+            </a>
+        
+            <a class="menu-main-link" href="/en/learn-with-us/explore-resources/creator-voices.html" target="_self">
+                <span>Creator Voices</span>
+                
+            </a>
+        
+
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                            
+
+    <div class="utility-menu">
+        <ul class="utility-list">
+            
+                <li class="utility-listitem">
+                    <a class="utility-listitem__link" href="/en/be-a-member.html" target="_self"><span>Be a Member</span></a>
+                </li>
+            
+                <li class="utility-listitem">
+                    <a class="utility-listitem__link" href="/en/promotions.html" target="_self"><span>View Promotions</span></a>
+                </li>
+            
+                <li class="utility-listitem">
+                    <a class="utility-listitem__link" href="https://shop.gardensbythebay.com.sg/" target="_blank"><span>eShop</span></a>
+                </li>
+            
+                <li class="utility-listitem">
+                    <a class="utility-listitem__link" href="/en/book-a-venue.html" target="_self"><span>Book a Venue</span></a>
+                </li>
+            
+                <li class="utility-listitem">
+                    <a class="utility-listitem__link" href="/en/support-us.html" target="_self"><span>Support Us</span></a>
+                </li>
+            
+            
+        </ul>
+    </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+</div>
+<div class="search-overlay-container aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+
+<div class="modal fade full-screen" id="search-overlay" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header container">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <i class="gbb-clear"></i>
+                </button>
+            </div>
+            <div class="modal-body container">
+                <div class="search-component" data-component="search" data-endpoint="/content/experience-fragments/gbb-2021/sg/en/site/header/master/jcr:content/root/search_panel.model.page.p{PAGE}.json?q={QUERY}&amp;limit=10&amp;qid=548538397">
+
+                    <div class="search-menu">
+                        <div class="search-bar">
+                            <div class="search-bar-label">
+                                <h4>How can we help you?</h4>
+                            </div>
+
+                            <div class="search-bar-input" data-get="keywords" data-endpoint="/content/experience-fragments/gbb-2021/sg/en/site/header/master/jcr:content/root/search_panel.suggestion.json?q={q}">
+
+                                <vue-autosuggest v-model="query" :suggestions="filteredKeywords" :input-props="{id:'autosuggest__input', placeholder:'Search attractions, itineraries and more'}" :get-suggestion-value="getSuggestionValue" @keyup.enter.stop.prevent="currentFilters = [], filterResults()" @focus="onFocus" @input="onInputChange" @selected="onSelected">
+                                    <template slot="before-input">
+                                        <div class="search-button" @click="currentFilters = [], filterResults()">
+                                            <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/icons-images/search-dark.png" alt="seach icon"/>
+                                        </div>
+                                    </template>
+                                    <div slot-scope="{suggestion}" class="auto-suggestion">
+                                        <div class="auto-suggestion__label">{{ suggestion.item }}</div>
+                                    </div>
+                                </vue-autosuggest>
+                            </div>
+                        </div>
+                        <div class="search-options">
+                            <div class="search-options-label">
+                                
+                                <h6>Popular searches</h6>
+                            </div>
+
+                                <ul class="options">
+                                <li @click="query = 'Floral Fantasy', currentFilters = [], filterResults()" class="option">
+                                    <span>Floral Fantasy</span>
+                                </li>
+                            
+                                <li @click="query = 'Supertrees', currentFilters = [], filterResults()" class="option">
+                                    <span>Supertrees</span>
+                                </li>
+                            
+                                <li @click="query = 'Flower Dome', currentFilters = [], filterResults()" class="option">
+                                    <span>Flower Dome</span>
+                                </li>
+                            
+                                <li @click="query = 'OCBC Skyway', currentFilters = [], filterResults()" class="option">
+                                    <span>OCBC Skyway</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div v-if="noOfResults > 0 && isSubmitted && !searchResultsError" class="search-content-container" :class="{ oneColumn: searchFilters.length < 1 }">
+                        <div v-if="submittedQuery" class="results-found">
+                            <span>{{ noOfResults }} results found for "{{ submittedQuery }}"</span>
+                        </div>
+
+                        <div class="search-content">
+                            <div v-if="isMobile && searchFilters.length >= 1" class="mobile-filters">
+                                <div class="filter-by">
+                                    <span class="label">Filter by</span>
+                                    <span v-if="currentFilters.length >= 1" class="count">({{ currentFilters.length }})</span>
+                                </div>
+                                <div v-if="!isOpenedFilter" class="toggle-button" @click="isOpenedFilter = !isOpenedFilter">
+                                    <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/icons-images/icons-small-plus.svg" alt="+"/>
+                                </div>
+                                <div v-if="isOpenedFilter" class="toggle-button" @click="isOpenedFilter = !isOpenedFilter">
+                                    <span>Close</span>
+                                </div>
+                            </div>
+
+                            <div v-if="searchFilters.length >= 1 && !isMobile || isOpenedFilter && isMobile" class="search-filters">
+                                <div v-for="(filter, index) in searchFilters" class="search-filter" :class="{ disabled: filter.count < 1 }">
+                                    <input type="checkbox" :id="filter.categoryID" :value="filter.categoryID" :disabled="filter.count < 1" v-model="currentFilters" @change="filterResults()"/>
+                                    <label :for="filter.categoryID">
+                                        <span>{{ filter.categoryName }}</span>
+                                        <span v-if="filter.count > 0">({{ filter.count }})</span>
+                                    </label>
+                                    <div class="filter-checkbox"></div>
+                                </div>
+                            </div>
+
+                            <div v-if="searchResults.length >= 1 && isSubmitted" class="search-results">
+                                <div class="results-showing">
+                                    <span>Showing {{ searchResults.length }} out of {{ noOfResults }}</span>
+                                </div>
+
+                                <div v-for="result in searchResults" class="search-result">
+                                    <div class="search-result-image">
+                                        <img class="img-fluid" :src="result.image" :alt="result.name"/>
+                                        <div v-if="result.category.label" class="category" :style="{ background: result.category.backgroundColor }">
+                                            <span>{{ result.category.label }}</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="content">
+                                        <a :href="result.url" v-if="result.name" class="content__title">
+                                            <h6 v-html="result.name"></h6>
+                                        </a>
+                                        <div v-if="result.description" class="content__description">
+                                            <p v-html="result.description"></p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div v-if="totalPages > 1 && !this.isMobile">
+                                    <paginate :page-count="totalPages" :click-handler="searchResultsPagination" :prev-text="'<i></i>'" :next-text="'<i></i>'" :prev-class="'left-arrow'" :next-class="'right-arrow'" :page-class="'page-item'" :container-class="'pagination'" ref="searchResultsPagination">
+                                    </paginate>
+                                </div>
+
+                                <div v-if="totalPages > 1 && this.isMobile && !lastItemsSet" class="button-container">
+                                    <button type="button" class="button button--white" @click="loadMoreListing">
+                                        <div>Load More</div>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div v-if="searchResults.length < 1 && isSubmitted && !isLoading" class="no-results">
+                        <div class="results-found">
+                            <span>We’re sorry. 0 results found for "{{ submittedQuery }}"</span>
+                        </div>
+
+                        <p class="search-tips-label"><strong>Try doing these:</strong></p>
+                        <ul class="search-tips">
+                            <li class="search-tip">
+                                <span>Check your spelling</span>
+                            </li>
+                            <li class="search-tip">
+                                <span>Try more general words</span>
+                            </li>
+                            <li class="search-tip">
+                                <span>Try different keywords</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+<div class="notification-component bg--masthead notification--centered aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+</div>
+<div class="prebookingwidget aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+
+    
+
+
+
+
+
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="container responsivegrid body without-padding">
+
+    
+    <div id="container-dbfb7e3ff8" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="home-masthead-type aem-GridColumn aem-GridColumn--default--12">
+
+
+
+    
+
+	
+<div class="masthead masthead--home masthead--full shifted-up" data-shifted>
+	
+		
+
+
+
+
+
+<div class="video-player-container video-player-container--inline">
+	<video playsinline muted loop autoplay='autoplay'>
+		<source src="/content/dam/gbb-2021/videos/home/2026-SunflowerSurprise-WebsiteBanner.mp4" type="video/mp4"/>
+	</video>
+</div>
+<div class="masthead-content-container container">
+	<div class="masthead-content">
+		
+		<div class="text">
+			<div class="cmp-text"><h4>Uncover the coastal charm of Portugal at</h4>
+<h2><b>Sunflower Surprise</b></h2>
+<p>Now in Flower Dome till 9 Nov 2026</p>
+</div>
+		</div>
+		
+		<div class="masthead-content__cta">
+			
+			
+		</div>
+		<div class="masthead-credit"></div>
+	</div>
+</div>
+
+
+	
+</div>
+</div>
+<div class="container responsivegrid body shifted-container aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-9cef4c4af2" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-c41c9e62e7" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header-text component aem-GridColumn aem-GridColumn--default--12">
+
+    
+
+<div class="row">
+    <div class="col-lg-4">
+        <div class="text">
+            <div class="cmp-text">
+                <h3><b>No. 3 Top Attraction</b><br />
+in the World</h3>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8">
+        <div class="text">
+            <div class="cmp-text">
+                <p>Beauty abounds in the Gardens. </p>
+<p>Beyond the flora and fauna that you’ll find here, admire the Gardens’ iconic structures – architectural marvels that reimagine nature with artistic finesse.</p>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+<div class="tile-masonry component aem-GridColumn aem-GridColumn--default--12">
+
+    
+
+<div class="grid--wrapper">
+	<div class="grid--masonry">
+		<div class="grid--sizer"></div>	
+		
+			
+				<div class="grid--item grid--item--height2">
+					
+	<a class="grid--inner a--tile" href="/en/things-to-do/attractions/active-garden-propnex-family-zone.html" target="_self">
+		
+	<div class="grid--bg" style="background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/propnex-family-zone/1920x1080-propnex-family-zone.jpg')"></div>
+	<div class="grid--content">		
+		<h5>Active Garden &amp; PropNex Family Zone</h5>
+				
+	</div>
+
+	</a>
+			
+								
+				</div>
+				
+					
+		
+			
+				<div class="grid--item ">
+					
+	<a class="grid--inner a--tile" href="/en/things-to-do/attractions/cloud-forest.html" target="_self">
+		
+	<div class="grid--bg" style="background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/cloud-forest/main/cloud-forest-night-main.jpg')"></div>
+	<div class="grid--content">		
+		<h5>Cloud Forest</h5>
+		<p>Wander past the misty veil.</p>
+		
+	</div>
+
+	</a>
+			
+								
+				</div>
+				
+					
+		
+			
+				<div class="grid--item ">
+					
+	<a class="grid--inner a--tile" href="/en/things-to-do/attractions/floral-fantasy.html" target="_self">
+		
+	<div class="grid--bg" style="background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/floral-fantasy/main/floral-fantasy-main.jpg')"></div>
+	<div class="grid--content">		
+		<h5>Floral Fantasy</h5>
+		<p>The stuff dreams are made of.</p>
+		
+	</div>
+
+	</a>
+			
+								
+				</div>
+				
+					
+		
+			
+				<div class="grid--item grid--item--width2">
+					
+	<a class="grid--inner a--tile" href="/en/things-to-do/attractions/flower-dome.html" target="_self">
+		
+	<div class="grid--bg" style="background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/flower-dome/main/flower-dome-main.jpg')"></div>
+	<div class="grid--content">		
+		<h5>Flower Dome</h5>
+		<p>The only season here is Spring.</p>
+		
+	</div>
+
+	</a>
+			
+								
+				</div>
+				
+					
+		
+			
+				<div class="grid--item grid--item--width2">
+					
+	<a class="grid--inner a--tile" href="/en/things-to-do/attractions/supertree-observatory.html" target="_self">
+		
+	<div class="grid--bg" style="background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/supertree-observatory/main/supertree-observatory-main.jpg')"></div>
+	<div class="grid--content">		
+		<h5>Supertree Observatory</h5>
+		<p>Set your sights higher.</p>
+		
+	</div>
+
+	</a>
+			
+								
+				</div>
+				
+					
+		
+			
+				
+				
+	<div class="grid--item grid--link">
+		<a class="grid--inner a--tile special-tile" href="/en/things-to-do/attractions.html" target="_self">
+			<div class="grid--image">
+				
+					
+    <svg width="379px" height="273px" viewBox="0 0 379 273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>View other Attractions</title>
+        <defs>
+            <rect id="path-1" x="0" y="0" width="379" height="273"></rect>
+        </defs>
+        <g id="attraction-svg-container" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="attraction-svg-inner" transform="translate(-483.000000, -2176.000000)">
+                <g id="attraction-svg" transform="translate(483.000000, 2176.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="attraction-svg-bg" fill="#268278" xlink:href="#path-1"></use>
+                    <g id="Group" mask="url(#mask-2)" fill="#FFFFFF" opacity="0.1">
+                        <g transform="translate(335.710177, 65.996566) rotate(-66.000000) translate(-335.710177, -65.996566) translate(215.710177, -41.003434)" id="Shape">
+                            <path d="M239.244441,91.9530123 C235.575861,101.130484 218.501337,104.673777 188.602979,91.8981857 C177.956071,87.3525634 162.530689,83.2051815 148.622378,83.8710753 C166.98422,60.1102303 198.105106,58.9319572 220.423093,68.4667987 C234.160459,74.3327448 242.246188,84.4318017 239.244441,91.9530123 Z M112.771361,87.8579649 C105.633552,80.5530701 109.426728,62.9467584 134.015836,40.0626404 C142.766405,31.9109241 153.143688,19.0805064 158.336317,5.67141902 C173.103837,32.9516323 161.193534,62.8331179 142.844152,79.915088 C131.548852,90.4293317 118.616868,93.8400437 112.771361,87.8579649 Z M129.365944,35.9646024 C124.054701,40.3213222 117.648016,47.2972575 114.187759,54.7950421 C106.709058,38.6301712 114.613376,21.9394636 125.742716,12.8118341 C132.594454,7.19509966 140.124489,5.70730552 143.259802,9.34629547 C147.088363,13.7902394 144.276997,23.7392708 129.365944,35.9646024 Z M100.619842,95.0522096 C97.5538038,94.0762964 95.8588109,90.7986635 96.8351387,87.7343558 C97.8124634,84.6690513 101.089815,82.9764051 104.155853,83.9528168 C107.22239,84.9297268 108.916884,88.205366 107.938563,91.2696737 C106.963232,94.3354766 103.68588,96.0281228 100.619842,95.0522096 Z M93.5493146,75.71587 C85.077839,75.3515225 77.366394,62.5410417 79.2333282,34.7300074 C79.8946795,24.8263325 78.8789795,11.1715223 74.3965433,0.106022245 C98.8441115,8.22583945 108.623836,33.0692603 107.230862,53.8300942 C106.373647,66.607679 100.488269,76.0139273 93.5493146,75.71587 Z M74.6781284,40.6747044 C74.5515397,45.9021701 75.3928063,53.0645157 78.0023278,58.7874144 C64.9547204,55.0636924 59.250753,42.2103472 59.5148948,31.256494 C59.6793604,24.5123257 62.5634897,19.4313965 66.2230993,19.4313965 C70.6880923,19.4328918 75.0354674,26.0001198 74.6781284,40.6747044 Z M72.3118167,87.690993 C65.2303249,92.3517511 51.476512,86.478827 36.7045073,62.8366068 C31.4411084,54.4217229 22.6207663,43.9423689 12.5061294,37.5959425 C37.0812831,29.8743657 59.5602474,44.2952527 70.5889145,61.9414382 C77.3763616,72.80408 78.1119716,83.8720722 72.3118167,87.690993 Z M30.5470134,87.7363495 C26.0022795,87.7273779 21.0359156,89.3113678 17.6339687,90.9531748 C8.07801668,95.5660843 2.45877398,94.6664298 1.1241104,91.7292202 C0.0331549844,89.32333 2.51708453,85.9101258 6.90831711,83.7903307 C14.0411421,80.3472212 24.2041219,80.2644829 30.5470134,87.7363495 Z M20.6651203,73.3717843 C17.047873,67.6758006 16.6187672,61.8497283 19.6573945,59.8151636 C23.3728228,57.3350083 30.6372203,60.3763885 38.5081471,72.7706856 C41.3115387,77.1837272 45.994324,82.6668841 51.3459363,85.9724288 C38.43339,90.1332681 26.5415275,82.6230229 20.6651203,73.3717843 Z M57.8687432,92.9493609 C69.0519084,96.7124583 75.8528118,104.382199 73.6978135,110.786941 C71.0688552,118.610196 57.5133978,122.828354 33.1585284,114.6253 C24.4971697,111.718495 12.0127325,109.475589 0.90033745,111.099951 C14.8245966,90.186101 39.6967852,86.8356983 57.8687432,92.9493609 Z M47.1605349,123.457863 C53.1849611,124.65707 61.6404886,125.126585 68.7862714,123.26298 C61.851802,137.597639 45.8288616,141.602971 33.2068713,139.087427 C25.4356206,137.540819 20.1393287,133.184099 20.8744402,128.951985 C21.7775061,123.788318 30.2509752,120.089019 47.1605349,123.457863 Z M58.7827735,143.157554 C71.1640459,126.085552 81.849827,122.365817 86.9542425,126.253022 C91.1331649,129.442933 90.0003455,137.75564 84.3078408,145.600826 C75.0643734,158.343521 57.3479354,168.058791 39.2023915,160.948282 C47.1695058,156.685266 54.3706089,149.238819 58.7827735,143.157554 Z M91.0464466,149.98147 C96.0536778,149.982965 100.927343,157.348667 100.52814,173.804618 C100.386101,179.666078 101.330533,187.697176 104.256526,194.114877 C89.6245664,189.939583 83.2273514,175.525175 83.5243863,163.242027 C83.7082888,155.679447 86.9427797,149.980971 91.0464466,149.98147 Z M102.855578,118.094328 C101.87327,121.171096 98.5824616,122.873212 95.5044622,121.892315 C92.4259645,120.910919 90.7244927,117.620826 91.7053059,114.543061 C92.6846241,111.466292 95.9769271,109.767665 99.0544281,110.748064 C102.133424,111.727466 103.834896,115.018058 102.855578,118.094328 Z M96.648246,96.9731338 C98.9318265,97.701829 100.195222,100.14211 99.4680841,102.426385 C98.7399499,104.709165 96.2968876,105.971672 94.0133071,105.243973 C91.7277331,104.517272 90.4663314,102.075495 91.1944657,99.7917187 C91.9206064,97.5089391 94.362672,96.2459339 96.648246,96.9731338 Z M91.4775459,82.9833831 C93.4157486,83.5999329 94.4842769,85.6688889 93.8682783,87.6067594 C93.2492894,89.5436331 91.1790159,90.6142468 89.24181,89.9962017 C87.3036073,89.3806487 86.2330855,87.3092006 86.8510776,85.3728253 C87.4685714,83.4349547 89.5398417,82.3663348 91.4775459,82.9833831 Z M84.4937368,108.408963 C87.559775,109.384876 89.2547679,112.661013 88.27844,115.725321 C87.3021122,118.791622 84.022767,120.484767 80.9562304,119.507857 C77.8901922,118.532442 76.1956977,115.255308 77.1730223,112.191 C78.1503469,109.125696 81.4286953,107.432052 84.4937368,108.408963 Z M81.6699116,82.79149 C79.731709,82.1734449 78.6611872,80.1014984 79.2771857,78.1656215 C79.896673,76.2287478 81.9669465,75.1601278 83.9056475,75.7756809 C85.8418567,76.3932276 86.9123785,78.4631804 86.2953831,80.4010509 C85.677391,82.3374262 83.6071175,83.4080399 81.6699116,82.79149 Z M88.7588791,99.20956 C87.4870115,103.203428 83.2148919,105.411444 79.2188752,104.13847 C75.2223601,102.866493 73.0145335,98.5960007 74.288893,94.6021332 C75.5607607,90.6072689 79.8313851,88.4007481 83.8279002,89.6727248 C87.8229201,90.9456984 90.0312451,95.2151941 88.7588791,99.20956 Z M100.211668,128.310016 C127.626097,137.414718 138.593463,165.274099 137.032036,188.555959 C136.069663,202.884638 129.472099,213.431778 121.688887,213.098332 C112.189252,212.688628 103.541848,198.324063 105.636542,167.137206 C106.377136,156.030337 105.239333,140.718269 100.211668,128.310016 Z M114.91988,127.935201 C105.112744,118.203981 101.934072,106.634076 107.509457,101.016345 C114.319331,94.1580379 130.73998,96.7289063 152.085626,117.928851 C159.680948,125.458535 171.637102,134.262688 184.151941,138.295931 C158.7111,153.074686 130.844141,143.7437 114.91988,127.935201 Z M131.880773,95.4718822 C149.665489,83.342248 171.141213,89.4334815 184.239157,100.877285 C192.302957,107.918514 195.576322,116.594073 191.862887,121.05596 C187.327124,126.499243 174.902493,125.132068 157.354507,109.799564 C151.105311,104.343322 141.509489,98.0990725 131.880773,95.4718822 Z"></path>
+                        </g>
+                    </g>
+                    <g id="Group" mask="url(#mask-2)" fill="#FFFFFF" opacity="0.1">
+                        <g transform="translate(-75.000000, 101.000000)" id="Shape">
+                            <path d="M235.965544,104.588639 C223.737563,117.880905 188.988358,108.398913 173.936093,103.815624 C170.660919,105.162365 168.780868,104.212288 168.305501,103.187477 C167.949454,102.41906 168.288291,101.683603 169.19275,101.262794 C170.31711,100.739275 172.621281,101.321049 174.564434,102.476165 C188.21125,101.359757 195.113057,98.6666579 207.899776,91.510994 C231.504056,78.3034269 245.523364,94.1983442 235.965544,104.588639 Z M172.358549,90.6053739 C169.783995,93.0393957 167.688633,92.8286081 166.877488,92.042562 C166.270563,91.4531233 166.322957,90.6452319 167.016312,89.9274044 C167.878321,89.0344315 170.238328,88.7492933 172.46563,89.1298608 C184.803371,83.1841177 190.280989,78.1899848 199.652562,66.9170645 C216.952781,46.1069638 235.733406,55.9070537 230.534965,69.0395039 C223.884036,85.8396581 188.05101,89.4747859 172.358549,90.6053739 Z M166.149714,78.8369111 C164.619591,82.033984 162.587331,82.5904632 161.549019,82.1481925 C160.771146,81.8166811 160.530594,81.0432823 160.920296,80.1242484 C161.404841,78.9810131 163.505175,77.8672882 165.720239,77.421185 C175.104815,67.4367517 178.427029,60.8065238 183.133276,46.9160049 C191.821056,21.2746526 212.86302,23.6699661 212.718459,37.7961839 C212.532213,55.867579 180.391599,72.1407642 166.149714,78.8369111 Z M153.033336,74.8315636 C152.188154,74.8016701 151.686782,74.1666246 151.721201,73.1682579 C151.763651,71.9272939 153.325134,70.1332998 155.233103,68.9206963 C160.415864,56.2293671 161.140961,48.8472024 160.5566,34.1901831 C159.478515,7.13425449 179.977804,1.80975995 184.904333,15.0472206 C191.205717,31.9822789 167.035434,58.7204932 156.141386,70.0880763 C155.858384,73.6224093 154.161519,74.8710384 153.033336,74.8315636 Z M142.457857,71.0607652 C141.658185,71.3367054 140.962153,70.9239449 140.6367,69.980383 C140.231702,68.8064878 141.045906,66.5698398 142.392078,64.7528508 C142.679669,51.0443756 140.710893,43.8936941 134.912029,30.4236005 C124.207669,5.55832981 141.431783,-6.77964275 150.774674,3.80457705 C162.726919,17.3459551 149.751277,50.9907206 143.658321,65.5166684 C144.660683,68.9168638 143.524468,70.6920786 142.457857,71.0607652 Z M131.240651,71.3420709 C130.593189,71.8866693 129.796194,71.7521485 129.154085,70.9875645 C128.355178,70.0374873 128.313875,67.657887 128.91927,65.4779601 C124.276507,52.5789093 119.876209,46.6117042 109.63689,36.1221472 C90.7365627,16.7588159 102.393186,-0.946958489 114.906081,5.57595932 C130.913669,13.9204652 130.857451,49.9873717 130.374436,65.7351209 C132.528693,68.5485604 132.10419,70.614662 131.240651,71.3420709 Z M120.867098,75.6375387 C120.457892,76.3783613 119.665104,76.5393263 118.792005,76.0571976 C117.706272,75.4574111 116.814433,73.2514232 116.598357,70.9986787 C107.640961,60.6283125 101.39503,56.6402113 88.0778735,50.5308204 C63.4964721,39.2517681 68.0298583,18.5363301 82.0472537,20.1256686 C99.9800201,22.160727 112.855082,55.8445839 118.048933,70.7158401 C121.067877,72.5680881 121.412451,74.64837 120.867098,75.6375387 Z M108.333169,79.7904375 C111.815241,80.4339145 112.882235,82.2524366 112.727731,83.3719103 C112.611088,84.2108449 111.928824,84.6454506 110.940994,84.508247 C109.712995,84.3392337 108.090322,82.6004277 107.081458,80.5761003 C95.0045389,74.1137361 87.7455374,72.6363067 73.1265715,71.717656 C46.1400355,70.0229238 42.949379,49.0572235 56.6030786,45.505261 C74.0696566,40.9606805 98.1561869,67.7743951 108.333169,79.7904375 Z M81.2196641,106.566594 C73.2309763,106.656657 65.1130255,109.532567 59.7772903,112.474012 C44.7735947,120.730753 34.5388653,119.295098 31.0544987,114.210518 C28.1915892,110.045739 31.2308013,104.039059 38.1207529,100.246798 C49.3138647,94.0864351 67.1525521,93.704718 81.2196641,106.566594 Z M102.327407,91.0629746 C93.7172622,90.1186462 88.7100388,91.0219668 79.497941,93.9212543 C61.7105,99.518623 54.4752095,86.8165628 62.3843507,81.1459933 C72.1280334,74.1608758 93.007845,84.3675942 103.042178,89.7867515 C106.609916,89.3034731 108.203906,90.7203489 108.39933,91.8417389 C108.544273,92.6760745 108.026838,93.2984728 107.044362,93.4701689 C105.863402,93.6775072 103.883536,92.5990413 102.327407,91.0629746 Z M139.739125,79.0887064 C138.411693,78.2654851 138.00134,76.5193973 138.823193,75.1887528 C139.645429,73.8592579 141.389333,73.4480305 142.717148,74.2708686 C144.045345,75.0944732 144.455698,76.8409442 143.633845,78.1708223 C142.810844,79.5007004 141.067322,79.9119278 139.739125,79.0887064 Z M154.688133,88.3560787 C153.359553,87.5317076 152.948818,85.7856198 153.771818,84.456125 C154.592906,83.1243307 156.337575,82.714253 157.665773,83.5386241 C158.994352,84.361079 159.404323,86.10755 158.58247,87.4378113 C157.759852,88.7673061 156.015947,89.1785335 154.688133,88.3560787 Z M37.4316048,165.203869 C38.1291665,167.953305 39.3640495,171.284516 41.0968632,174.309126 C41.4942133,171.942173 42.130203,169.39241 43.088203,166.612696 C43.2924234,166.020575 43.5624226,165.369433 43.8890222,164.676517 C34.8715839,152.40063 35.9814107,137.984676 41.4089303,128.943421 C44.931158,123.075861 50.2458592,120.633408 53.7631152,123.26442 C58.0582443,126.467242 58.959644,135.421498 51.2899071,148.199442 C49.3930288,151.353974 47.4804706,155.678186 46.3714087,160.352305 C49.0239789,156.374168 52.9787407,151.89704 57.9335705,148.339328 C57.9339529,148.329747 57.9335705,148.319783 57.9339529,148.310201 C58.1094906,145.855484 60.2396544,144.008218 62.6906813,144.183747 C63.0287539,144.207892 63.3538238,144.272661 63.6655084,144.367324 C63.7737376,140.672409 62.9836266,136.982476 62.0072697,134.344949 C58.7141206,125.429017 60.3383227,119.926694 63.4081296,118.428953 C65.9234055,117.19872 68.9633825,119.359484 70.4759135,123.453746 C72.6007232,129.205947 71.947524,137.332384 66.4316619,143.739943 C66.7448762,143.622669 67.0592379,143.50731 67.3770415,143.399617 C73.7170514,140.715333 77.0021693,135.073124 77.5459921,130.473356 C75.7393684,126.592948 72.6955671,122.953604 73.1866138,117.265788 C74.0134386,112.703578 78.3758763,109.679351 82.9306789,110.506405 C82.9440641,110.508705 82.9559196,110.51292 82.9673927,110.513687 C82.9788657,110.515603 82.9914861,110.51637 83.0048713,110.518669 C87.5604388,111.347256 90.5828237,115.715541 89.7552341,120.274685 C88.3203374,125.412154 84.6229544,127.788688 81.6541104,130.523178 C81.2831483,134.619739 79.4061566,138.592894 76.5195361,141.780768 C79.2910436,141.717532 82.0747891,142.035247 84.8677129,142.733912 C87.9298711,138.380956 89.7338177,133.091337 90.4355862,129.101703 C92.5867839,116.929295 98.0181278,111.82172 102.44558,112.16013 C106.075654,112.433387 108.070436,116.857627 107.082988,122.447331 C105.625528,130.699856 99.00787,139.880614 87.6254528,143.061974 C94.9961253,142.756907 108.412715,138.356045 115.548572,130.397472 C114.860189,128.788588 115.234211,126.853941 116.615184,125.629073 C117.222491,125.091373 117.943381,124.767144 118.688365,124.642588 C116.103868,119.570655 108.66321,114.762015 108.699541,100.909055 C109.307613,90.268497 117.215225,81.8266456 128.028579,77.3108089 C133.921904,74.6188598 135.856261,78.1819366 136.030269,80.0391669 C137.227674,87.1492239 132.194062,96.180514 133.765106,98.7076656 C136.079603,97.4774326 136.485749,90.9081415 139.586534,86.6617297 C142.76151,82.3110738 146.69562,79.3063925 149.01356,80.5485063 L149.014707,80.5469733 L149.355839,80.7577609 L149.35431,80.7596772 C151.498623,82.2827133 150.565864,87.1496072 148.094568,91.9356352 C145.681402,96.6082212 139.990385,99.9026396 139.922312,102.524454 C142.883889,102.806526 148.709142,94.2673292 155.598711,92.1698011 C157.336114,91.49873 161.383807,91.6428321 161.607149,98.1255086 C162.391906,109.831885 158.372513,120.682847 149.134027,125.974382 C136.70412,132.215994 129.073009,127.610094 123.377402,127.602045 C123.80573,129.099404 123.380844,130.777273 122.138695,131.878351 C121.188726,132.719585 119.964169,133.045731 118.800419,132.883616 C112.471882,140.093318 101.992394,144.50951 93.8438482,146.275526 C96.6405965,147.780933 99.4415515,149.662691 102.243271,151.918885 C104.223521,151.918885 106.310852,151.940347 108.432219,153.351091 C110.547086,155.061536 110.87445,158.164713 109.166877,160.28217 C109.161523,160.287536 109.156934,160.292518 109.152345,160.298267 C109.14852,160.304015 109.144314,160.310147 109.140107,160.316663 C107.430622,162.433737 104.332515,162.763332 102.21956,161.052886 C100.274495,159.153882 99.8817343,156.961307 99.4377271,154.909386 C94.6481093,151.09528 89.8967351,148.48688 85.2057856,147.0861 C85.1006159,147.063872 84.9977409,147.035128 84.899455,146.996803 C80.2195962,145.651212 75.6009269,145.509026 71.0667758,146.587109 C69.9676572,146.848869 68.9037226,147.183063 67.8680883,147.567846 C73.330027,148.702266 77.9506084,151.365472 81.3504569,154.585923 C82.2690661,154.223752 83.27793,154.049756 84.3284794,154.124873 C88.0878169,154.394681 90.9178369,157.665338 90.6486026,161.430771 C90.3793682,165.195437 87.1126072,168.029572 83.3536522,167.759764 C79.5939323,167.489573 76.7639122,164.219299 77.0327641,160.454249 C77.1199593,159.23858 77.523046,158.122939 78.150622,157.174395 C75.0674299,154.383184 70.8583487,152.136954 65.8859269,151.362406 C65.0044139,152.495677 63.5932282,153.183227 62.0546916,153.072851 C61.1406716,153.007315 60.3115522,152.669289 59.6396137,152.144619 C52.476221,157.553046 47.9829904,164.954373 46.9511804,167.94794 C43.9574781,176.633538 44.4079867,182.867486 45.3403636,188.309638 C45.5835923,189.728813 45.8314103,191.242651 46.069285,192.843871 C47.1466048,193.32485 48.0743924,194.159952 48.6560763,195.291689 C49.8615119,197.639097 49.1719813,200.457518 47.1531062,202.009682 C47.1810239,202.335444 47.2054998,202.669638 47.2311229,203 L42.772694,203 C41.2479251,202.67692 39.8734532,201.707297 39.105141,200.211855 C37.7486435,197.569728 38.7873373,194.327815 41.4242277,192.96881 C41.5875275,192.885262 41.7527395,192.810528 41.9198636,192.744609 C41.71985,191.435426 41.5152472,190.182198 41.3129391,189.002171 C40.8628129,186.374608 40.5151793,183.578798 40.5461566,180.459142 C33.2963335,184.402402 24.7485256,182.52371 18.7289964,178.331337 C16.9422594,177.137129 15.001401,175.583816 12.9205714,173.618893 C9.76815849,170.644871 4.91199701,167.199069 0,165.653038 C9.22663033,159.585421 19.0632447,164.350754 26.7804035,169.394709 C26.7999077,169.407357 27.3173425,169.748449 28.0022838,170.210266 C26.2717648,167.870907 24.9909895,165.219965 24.2077623,162.536831 C23.566801,160.485293 23.0290972,158.05587 22.6416904,155.217136 C22.0538875,150.920518 20.4335098,145.185563 17.5805436,140.893161 C28.5656108,141.972393 33.2339966,151.866763 36.0777843,160.645108 C36.0938466,160.694164 37.0197221,163.586553 37.4316048,165.203869 Z M127.918055,130.687976 C128.751381,130.545023 129.371308,131.064327 129.540727,132.048897 C129.751449,133.272615 128.587699,135.347914 126.966556,136.923073 C124.473079,150.405813 125.263955,157.781463 128.816013,172.011925 C135.372863,198.281807 116.385723,207.674119 108.871255,195.71863 C99.2579826,180.423499 117.485607,149.316616 125.839902,135.966097 C125.397807,132.448244 126.805551,130.879217 127.918055,130.687976 Z M139.038122,132.223276 C139.765131,131.790203 140.530384,132.052346 141.040552,132.91006 C141.676159,133.976645 141.33388,136.331334 140.385441,138.385555 C142.890773,151.865997 146.272647,158.464798 154.68928,170.470493 C170.224943,192.631933 155.870622,208.224083 144.571193,199.766135 C130.116292,188.9466 135.978258,153.360289 138.9907,137.896528 C137.317163,134.771889 138.068648,132.801984 139.038122,132.223276 Z M149.962764,129.660482 C150.486318,128.99516 151.294403,128.964883 152.078395,129.581916 C153.053605,130.349566 153.577923,132.670529 153.428391,134.928255 C160.597138,146.610487 166.118354,151.555947 178.275585,159.737572 C200.717644,174.841461 192.905259,194.552783 179.328047,190.718365 C161.959372,185.81238 154.680866,150.490128 151.951427,134.973862 C149.269791,132.657498 149.265202,130.548473 149.962764,129.660482 Z M163.006479,127.584033 C159.673557,126.386759 158.912894,124.419919 159.245995,123.33992 C159.495725,122.530879 160.239561,122.211632 161.191825,122.505968 C162.377374,122.871589 163.698687,124.849543 164.368713,127.01069 C175.246699,135.337567 182.172982,137.968196 196.45311,141.23502 C222.813217,147.264695 222.587198,168.470693 208.539973,169.772594 C190.57011,171.437049 171.115634,141.085553 163.006479,127.584033 Z M165.64184,114.107807 C165.58524,113.263124 166.165011,112.698596 167.160108,112.630761 C168.397285,112.546446 170.339291,113.917715 171.738621,115.693696 C184.876416,119.557624 192.28342,119.524665 206.783448,117.442467 C233.549319,113.599617 240.936054,133.474971 228.290836,139.736895 C212.114212,147.74759 183.079735,126.406688 170.673157,116.718507 C167.132572,116.798223 165.718327,115.235329 165.64184,114.107807 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </svg>
+
+				
+			</div>
+			<div class="grid--content">
+				<h6 class="button--link">View other Attractions</h6>
+			</div>
+		</a>		
+	</div>
+
+					
+		
+	</div>
+</div>
+</div>
+<div class="separator medium aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-f5e00ffa68" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="banner-full-width aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+<div class="full-width-banner component">
+	<div class="background" style="background-image:url('/content/dam/gbb-2021/image/things-to-do/banners/susnew-full-width-banner-1920x600.jpg');"></div>
+	<div class="container">
+		<div class="text-panel">
+			<h4>Secrets to Sustainability</h4>
+			
+			<div class="text">
+				<div class="cmp-text"><p>Uncover the innovative thought behind our iconic architecture that continues to keep the Gardens sustainable!</p>
+<p><span class="button"><a href="/en/about-us/our-gardens-story/sustainability-efforts.html" target="_blank">Find out more</a></span></p>
+</div>
+			</div>
+			
+		</div>
+		<div class="tile--credit"></div>
+	</div>
+</div>	
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-bdbd79cec6" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="separator medium aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-198d8d230e" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+<div class="header-text component aem-GridColumn aem-GridColumn--default--12">
+
+    
+
+<div class="row">
+    <div class="col-lg-4">
+        <div class="text">
+            <div class="cmp-text">
+                <h2>Flowers never stop <b>blooming</b></h2>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8">
+        <div class="text">
+            <div class="cmp-text">
+                <p>There’s always something blooming in the Gardens. </p>
+<p>Spend an afternoon with unusual plants from around the world in the cooled conservatories, swing by the OCBC Skyway for spectacular views from 22m above ground, and check out our ongoing programmes for a fun-filled day for the entire family!</p>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid body bg--green aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-fda4ff5887" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="separator aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-f1bdd81969" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+<div class="tile-carousel component tile-carousel--reduced tile-carousel--left aem-GridColumn aem-GridColumn--default--12">
+
+
+
+    
+
+<div class="container-full">
+    <div class="container-carousel">
+        
+        <div class="tile--wrapper">
+            <div class="tile--border">
+                <div class="tile--inner">
+                    <div class="tile--content">
+                        <div class="tile--detail">
+                            <h4>An event for every season</h4>
+                            <p><br />
+ </p>
+
+                            <a href="/en/things-to-do/calendar-of-events.html" target="_self" class="button">View all events</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tile--mover">
+                <div class="tile--nav">
+                    <a href="javascript:void(0);" class="tile--nav--prev"><span class="d-none">Previous</span></a>
+                    <a href="javascript:void(0);" class="tile--nav--next"><span class="d-none">Next</span></a>
+                </div>
+                <div class="tile--slider">
+                    
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/things-to-do/calendar-of-events/sunflower-surprise-2026.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                
+                <img src="/content/dam/gbb-2021/image/things-to-do/events/sunflower-surprise-2026/1920x1080-Sunflower-KV.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Sunflower Surprise: Garden by the Ocean" data-src="/content/dam/gbb-2021/image/things-to-do/events/sunflower-surprise-2026/1080x1080-Sunflower-thumbnail.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Sunflower Surprise: Garden by the Ocean</h6>
+                <p><span class="gbb-event">Fri, 9 Oct - Mon, 9 Nov 2026</span></p>
+<p><span class="gbb-hours">9.00am - 9.00pm</span></p>
+<p><span class="gbb-location">Flower Dome</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/things-to-do/calendar-of-events/disney-garden-of-wonder-at-floral-fantasy.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                
+                <img src="/content/dam/gbb-2021/image/things-to-do/events/disney-garden-of-wonder-at-floral-fantasy/Disney_Garden_of_Wonder-KV-with_disclaimer.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Disney Garden of Wonder at Floral Fantasy" data-src="/content/dam/gbb-2021/image/things-to-do/events/disney-garden-of-wonder-at-floral-fantasy/Disney_Garden_of_Wonder-Thumb-with_disclaimer.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Disney Garden of Wonder at Floral Fantasy</h6>
+                <p><span class="gbb-event">Mon, 8 Jun 2026 - Sun, 14 Mar 2027</span></p>
+<p><span class="gbb-hours">10.00am - 9.00pm</span></p>
+<p><span class="gbb-location">Floral Fantasy</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/things-to-do/calendar-of-events/cloud-forest-featuring-jurassic-world-the-experience.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                
+                <img src="/content/dam/gbb-2021/image/things-to-do/events/jurassic-world/jurassic-world-experience-1920x1080.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Cloud Forest featuring Jurassic World: The Experience" data-src="/content/dam/gbb-2021/image/things-to-do/events/jurassic-world/jurassic-world-experience-1080x1080.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Cloud Forest featuring Jurassic World: The Experience</h6>
+                <p><span class="gbb-event">Ongoing</span></p>
+<p><span class="gbb-hours">9.00am - 9.00pm<br />
+</span></p>
+<p><span class="gbb-location">Cloud Forest</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/things-to-do/calendar-of-events/portuguese-programmes.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                
+                <img src="/content/dam/gbb-2021/image/things-to-do/events/portuguese-programmes/v2-1920x1080-Experience-Portugal.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Experience Portugal" data-src="/content/dam/gbb-2021/image/things-to-do/events/portuguese-programmes/v2-1080x1080_Experience-Portugal.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Experience Portugal</h6>
+                <p><span class="gbb-event">Thu, 8 Oct - Mon, 9 Nov 2026</span></p>
+<p><span class="gbb-hours">Various timing</span></p>
+<p><span class="gbb-location">Flower Dome</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/things-to-do/calendar-of-events/race-to-sustainability-2026.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                
+                <img src="/content/dam/gbb-2021/image/things-to-do/events/race-to-sustainability-2026/Race-to-sustainability.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Race to Sustainability! 2026" data-src="/content/dam/gbb-2021/image/things-to-do/events/race-to-sustainability-2026/1000x1000-RTS2026-thumb.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Race to Sustainability! 2026</h6>
+                <p><span class="gbb-event">Thu, 22 Oct – Sun, 29 Nov 2026</span></p>
+<p><span class="gbb-hours">Various Timings</span></p>
+<p><span class="gbb-location">Gardens by the Bay</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/things-to-do/calendar-of-events/borealis.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                
+                <img src="/content/dam/gbb-2021/image/things-to-do/events/borealis/2025-Borealis-visual-v4-square.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Borealis" data-src="/content/dam/gbb-2021/image/things-to-do/events/borealis/2025-Borealis-visual-v4-square.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Borealis</h6>
+                <p><span class="gbb-event">Every Sat, Sun &amp; Mon<br />
+</span></p>
+<p><span class="gbb-hours">8.00pm - 8.30pm<br />
+From 27 Nov 2026 - 3 Jan 2027: 9.05pm - 9.20pm</span></p>
+<p><span class="gbb-location">Supertree Grove</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/things-to-do/calendar-of-events/nature-sustainability-tours.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                
+                <img src="/content/dam/gbb-2021/image/things-to-do/attractions/kingfisher-wetlands/kw-1920x1080.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Nature and Sustainability Tours (Supported by Keppel)" data-src="/content/dam/gbb-2021/image/things-to-do/attractions/kingfisher-wetlands/kw-1000x1000-thumb.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Nature and Sustainability Tours (Supported by Keppel)</h6>
+                <p><span class="gbb-event">Every Sat &amp; Sun only<br />
+</span></p>
+<p><span class="gbb-hours">Various timings</span></p>
+<p><span class="gbb-location">Gardens by the Bay</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/things-to-do/calendar-of-events/garden-rhapsody.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                
+                <img src="/content/dam/gbb-2021/image/things-to-do/events/garden-rhapsody/gr-masthead-1920x1080.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Garden Rhapsody" data-src="/content/dam/gbb-2021/image/things-to-do/events/garden-rhapsody/gr-masthead-1000x1000.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Garden Rhapsody</h6>
+                <p><span class="gbb-event">Daily</span></p>
+<p><span class="gbb-hours">7.45pm &amp; 8.45pm<br />
+ 27 Nov - 11 Dec 2026 &amp; 31 Dec 2026 - 3 Jan 2027: Additional show at 9.35pm<br />
+ 23 Dec - 27 Dec 2026: Additional shows at 7.10pm &amp; 9.35pm</span></p>
+<p><span class="gbb-location">Supertree Grove</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tile--page">
+        <div class="tile--page--dots"></div>
+    </div>
+</div>
+
+</div>
+<div class="separator aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-ccc50d04b7" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+<div class="tile-carousel component tile-carousel--reduced tile-carousel--right aem-GridColumn aem-GridColumn--default--12">
+
+
+
+    
+
+<div class="container-full">
+    <div class="container-carousel">
+        
+        <div class="tile--wrapper">
+            <div class="tile--border">
+                <div class="tile--inner">
+                    <div class="tile--content">
+                        <div class="tile--detail">
+                            <h4>Fresh deals are calling</h4>
+                            <p><br />
+ </p>
+
+                            <a href="/en/promotions.html" target="_self" class="button">View all Promotions</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tile--mover">
+                <div class="tile--nav">
+                    <a href="javascript:void(0);" class="tile--nav--prev"><span class="d-none">Previous</span></a>
+                    <a href="javascript:void(0);" class="tile--nav--next"><span class="d-none">Next</span></a>
+                </div>
+                <div class="tile--slider">
+                    
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/promotions/bundle-up-for-more-savings-and-fun.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                <label style='background-color: #530f66;'>Attraction Promotion</label>
+                <img src="/content/dam/gbb-2021/image/promotions/bundle-up-for-more-savings-and-fun/1920x1080-Bundle-Up-Promo-with-GOW-BB.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Bundle up for more savings and fun!" data-src="/content/dam/gbb-2021/image/promotions/bundle-up-for-more-savings-and-fun/1080x1080-Bundle-Up-Promo-with-GOW-BB.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Bundle up for more savings and fun!</h6>
+                <p><span class="gbb-event">Till 14 Mar 2027<br />
+</span></p>
+<p><span class="gbb-location">Flower Dome, Cloud Forest, Floral Fantasy &amp; Shuttle Service</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/promotions/10-percent-off-flower-dome-admission-ticket-with-safra-card.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                <label style='background-color: #530f66;'>Attraction Promotion</label>
+                <img src="/content/dam/gbb-2021/image/promotions/10--off-flower-dome-admission-ticket-with-safra-card/2025-SAFRA-Flower-Dome-promotion-KV-1920x1080.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Enjoy 10% off Flower Dome admission ticket with SAFRA Card" data-src="/content/dam/gbb-2021/image/promotions/10--off-flower-dome-admission-ticket-with-safra-card/2025-SAFRA-Flower-Dome-promotion-Tile-Thumbnail-square-1080x1080.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Enjoy 10% off Flower Dome admission ticket with SAFRA Card</h6>
+                <p><span class="gbb-event">Till 30 Apr 2027</span></p>
+<p><span class="gbb-location">Flower Dome</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/promotions/10-percent-off-flower-dome-admission-ticket-with-passion-card-2025.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                <label style='background-color: #530f66;'>Attraction Promotion</label>
+                <img src="/content/dam/gbb-2021/image/promotions/Enjoy-10--off-Flower-Dome-admission-ticket-with-PAssion-Card-2025/2025-passion-fd-promo-kv-1920x1080.png.transform/resize1280x720/convert1x1/lowres/image.png" class="object-fit-image lazyload" alt="Enjoy 10% off Flower Dome admission ticket with PAssion Card" data-src="/content/dam/gbb-2021/image/promotions/Enjoy-10--off-Flower-Dome-admission-ticket-with-PAssion-Card-2025/2025-passion-fd-promo-thumbnail-1080x1080.png"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Enjoy 10% off Flower Dome admission ticket with PAssion Card</h6>
+                <p><span class="gbb-event">Till 30 Apr 2027</span></p>
+<p><span class="gbb-location">Flower Dome</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                        
+    <a class="tile--tile a--tile" href="/en/promotions/10-percent-off-flower-dome-admission-ticket-with-ocbc-credit-debit-card.html">
+        <div class="tile--inner">
+            <div class="tile--image">
+                <label style='background-color: #530f66;'>Attraction Promotion</label>
+                <img src="/content/dam/gbb-2021/image/promotions/enjoy-10-off-flower-dome-ocbc-promotion-2025/2025-ocbc-attractions-bundle-promotion-kv-1920x1080.jpg.transform/resize1280x720/convert1x1/lowres/image.jpg" class="object-fit-image lazyload" alt="Enjoy 10% off Flower Dome admission ticket with OCBC Credit/Debit Card" data-src="/content/dam/gbb-2021/image/promotions/enjoy-10-off-flower-dome-ocbc-promotion-2025/2025-ocbc-attractions-bundle-promotion-thumbnail-1080x1080.jpg"/>
+                <div class="tile--credit"></div>
+            </div>
+            <div class="tile--content">
+                <h6>Enjoy 10% off Flower Dome admission ticket with OCBC Credit/Debit Card</h6>
+                <p><span class="gbb-event">Till 30 Apr 2027</span></p>
+<p><span class="gbb-location">Flower Dome</span></p>
+
+            </div>
+        </div>
+    </a>
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="tile--page">
+        <div class="tile--page--dots"></div>
+    </div>
+</div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid body bg--purple aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-984ba80080" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-79d4083ce8" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header-text component aem-GridColumn aem-GridColumn--default--12">
+
+    
+
+<div class="row">
+    <div class="col-lg-4">
+        <div class="text">
+            <div class="cmp-text">
+                <h2>A world of <b>gardens for all</b></h2>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8">
+        <div class="text">
+            <div class="cmp-text">
+                <p>Discover this horticultural treasure trove with something for everyone! </p>
+<p>Set in the heart of Singapore’s downtown, Gardens by the Bay is home to a diverse collection of over 1.5 million plants that hail from every continent except Antarctica.</p>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+<div class="icon-text-panel large-icon aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+<div class="icon-text component">
+	<div class="row">
+    	
+    <div class="col-md-3">
+        <div class="inner">
+			<img src="/content/dam/gbb-2021/image/icons/page-number-one-destination.svg"/>
+			<div class="icon-text-content">
+            	<h6>Traveller's Choice</h6>
+<p>No. 3 Top Attraction in the World</p>
+<p><small><span class="small-text">TripAdvisor Travellers’ Choice Award 2026</span></small></p>
+
+            </div>
+        </div>
+    </div>
+
+	
+    	
+    <div class="col-md-3">
+        <div class="inner">
+			<img src="/content/dam/gbb-2021/image/icons/50-million-visitors.svg"/>
+			<div class="icon-text-content">
+            	<h6>Over 115 million</h6>
+<p>visitors to date</p>
+
+            </div>
+        </div>
+    </div>
+
+	
+    	
+    <div class="col-md-3">
+        <div class="inner">
+			<img src="/content/dam/gbb-2021/image/icons/world-top-10-v2.svg"/>
+			<div class="icon-text-content">
+            	<h6>Top 10</h6>
+<p>most Instagrammable places in Singapore</p>
+<p><small><span class="small-text">Timeout</span></small></p>
+
+            </div>
+        </div>
+    </div>
+
+	
+    	
+    <div class="col-md-3">
+        <div class="inner">
+			<img src="/content/dam/gbb-2021/image/icons/million-plants.svg"/>
+			<div class="icon-text-content">
+            	<h6>Over 1.5 million plants</h6>
+<p>from around the world</p>
+
+            </div>
+        </div>
+    </div>
+
+	</div>
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-279b242dcb" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="separator aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-dfffe8edb1" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div id="text-5f0dcfb9da" class="cmp-text">
+    <h2 style="text-align: center;">From <b>our Visitors</b></h2>
+
+</div>
+
+    
+
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div id="text-340023bc61" class="cmp-text">
+    <p style="text-align: center;">#gardensbythebay and share your Gardens moments with us on Instagram!</p>
+
+</div>
+
+    
+
+</div>
+<div class="embedsocial aem-GridColumn aem-GridColumn--default--12">
+
+    <div class="embedsocial-hashtag" data-ref="eb98706954b81844d6971e6b0eea29ffc6c268e9"></div>
+    <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
+
+
+    
+</div>
+<div class="separator aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-52192e8550" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+<div class="review-cmp component aem-GridColumn aem-GridColumn--default--12">
+
+
+
+    
+
+<div class="review--endpoint" data-endpoint="/en/_jcr_content/root/container/container_1816612709/reviews.model.page.p{PAGE}.json" data-component="reviewCardPanel">
+    <div class="container">
+        <div class="cmp-container">
+            <div class="review-card-panel-container">
+                <div class="review-card-panel row">
+                    <div class="comment-tile" :class="'comment-tile__color-' + item.color" v-for="item in items" v-cloak>
+                        <div class="comment-tile__quote">
+                            <div class="comment-tile__stars" :data-stars="item.stars"></div>
+                            <p class="comment-tile__review" v-html="item.review">
+                            </p>
+                        </div>
+                        <div class="comment-tile__info">
+                            <div class="comment-tile__name">
+                                <h6 v-html="item.name"></h6>
+                            </div>
+                            <div class="comment-tile__platform">
+                                <small v-html="item.platform"></small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="" v-if="totalPages > 1 && windowWidth > 1023 && !showAll" v-cloak>
+                    <ul class="dot-pagination">
+                        <li v-for="i in totalPages" :class="{ 'dot-active': currentPageNum === i }">
+                            <a href="javascript:void(0);" @click="paginate(i)"></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--2508091301-->
+</div>
+<div class="separator aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-d315c08413" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+<div class="separator aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-3237efb4a4" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-e25654e4a3" class="cmp-experiencefragment cmp-experiencefragment--see-you-at-gardens-soon-">
+
+    
+    <div id="container-d958cd43cf" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="banner-full-width aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+<div class="full-width-banner component">
+	<div class="background" style="background-image:url('/content/dam/gbb-2021/image/home/banners/overview-of-gardens-attractions.jpg');"></div>
+	<div class="container">
+		<div class="text-panel">
+			<h4>See you at the Gardens!</h4>
+			
+			<div class="text">
+				<div class="cmp-text"><p><span class="gbb-location"> 18 Marina Gardens Drive<br />
+ Singapore 018953<br />
+ <a href="/en/plan-your-visit/getting-here.html">Directions &amp; Parking</a></span></p>
+<p><span class="gbb-hours">Flower Dome: 9.00am - 9.00pm daily<br />
+ Cloud Forest: 9.00am - 9.00pm daily<br />
+ <a href="/en/plan-your-visit/opening-hours.html">See all opening times</a></span></p>
+</div>
+			</div>
+			
+		</div>
+		<div class="tile--credit"></div>
+	</div>
+</div>	
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-e1042d89d3" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-56947a41c2" class="cmp-experiencefragment cmp-experiencefragment--mobile-app-banner">
+
+    
+    <div id="container-4d3b38af61" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="mobileappdownload aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+<div class="mobile-app-download component">
+	<div class="row">
+		<div class="col-lg-6">
+			<h4>Download the Gardens by the Bay Mobile App to enhance your Garden experience!</h4>
+		</div>
+		<div class="col-lg-6">
+			<div class="mobile-phone-image">
+				<img src="/content/dam/gbb-2021/image/plan-your-visit/mobile-app-and-audio-guide/GB-mobile-app-visual-NoBackground.jpg" alt="Download the Gardens by the Bay Mobile App to enhance your Garden experience!"/>
+			</div>
+			<div class="app-download-links">
+				<a href="https://apps.apple.com/sg/app/gardens-by-the-bay/id1490838037" target="_blank">
+					<img class="img-fluid" src="/content/dam/gbb-2021/image/test/banner/iphone.png"/>
+				</a>
+			
+				<a href="https://play.google.com/store/apps/details?id=com.gardensbythebay.supertree" target="_blank">
+					<img class="img-fluid" src="/content/dam/gbb-2021/image/test/banner/android.png"/>
+				</a>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-604f262ed5" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+    
+    <div id="container-b5bfa76064" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footer aem-GridColumn aem-GridColumn--default--12">
+
+    
+
+<footer class="footer">
+	
+	<div class="footer--navigation">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-5">
+					<div class="footer--links">
+						<ul>
+							<li><a href="/en/about-us.html" class="footer--links--element" target="_self">ABOUT US</a></li>	   						
+    					
+							<li><a href="/en/careers-and-scholarships.html" class="footer--links--element" target="_self">CAREERS &amp; SCHOLARSHIPS</a></li>	   						
+    					
+							<li><a href="/en/frequently-asked-questions.html" class="footer--links--element" target="_self">FAQ</a></li>	   						
+    					
+							<li><a href="/en/forms/general/contact-us.html" class="footer--links--element" target="_self">CONTACT US</a></li>	   						
+    					</ul>
+					</div>
+				</div>
+				<div class="col-lg-7">    	
+    				<div class="footer--subscribe">
+    					<p>Sign up for our newsletter to stay abreast of happenings in the Gardens!</p>   	
+    					<a class="button" href="/en/forms/general/newsletter.html" target="_blank">Subscribe</a>
+    				</div>
+    			</div>    				
+			</div>
+			<div class="row">
+				<div class="col-lg-5">
+					<div class="footer--social">
+						<h6>Connect with Us</h6>
+						<ul>
+							<li><a href="https://www.facebook.com/gardensbythebay" target="_blank">
+									<i class="gbb-facebook"></i>
+									<span class="d-none">gbb-facebook</span>
+								</a>
+								
+							</li>
+						
+							<li><a href="https://www.instagram.com/gardensbythebay/" target="_blank">
+									<i class="gbb-instagram"></i>
+									<span class="d-none">gbb-instagram</span>
+								</a>
+								
+							</li>
+						
+							<li><a href="https://twitter.com/GardensbytheBay" target="_blank">
+									<i class="gbb-twitter"></i>
+									<span class="d-none">gbb-twitter</span>
+								</a>
+								
+							</li>
+						
+							<li><a href="https://www.youtube.com/channel/UCiMqLsZ-WHUStvqBRoZB_eA" target="_blank">
+									<i class="gbb-youtube"></i>
+									<span class="d-none">gbb-youtube</span>
+								</a>
+								
+							</li>
+						
+							<li><a href="https://t.me/gardensbythebay" target="_blank">
+									<i class="gbb-telegram"></i>
+									<span class="d-none">gbb-telegram</span>
+								</a>
+								
+							</li>
+						
+							<li><a href="https://www.linkedin.com/company/gardens-by-the-bay/" target="_blank">
+									<i class="gbb-linkedin"></i>
+									<span class="d-none">gbb-linkedin</span>
+								</a>
+								
+							</li>
+						
+							<li><a href="http://weibo.com/gardensbythebay" target="_blank">
+									<i class="gbb-weibo"></i>
+									<span class="d-none">gbb-weibo</span>
+								</a>
+								
+							</li>
+						
+							<li>
+								<a href="javascript:void(0);" data-toggle="modal" data-target="#wechatQRCode">
+									<i class="gbb-wechat"></i>
+									<span class="d-none">gbb-wechat</span>
+								</a>
+							</li>
+						
+							<li><a href="https://www.tiktok.com/@gardensbythebay" target="_blank">
+									<i class="gbb-tiktok"></i>
+									<span class="d-none">gbb-tiktok</span>
+								</a>
+								
+							</li>
+						
+							<li><a href="https://www.xiaohongshu.com/user/profile/5f2a1cf70000000001008541" target="_blank">
+									<i class="gbb-xiaohongshu"></i>
+									<span class="d-none">gbb-xiaohongshu</span>
+								</a>
+								
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-7">
+    				<div class="footer--logo">
+    					<img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/common/footer.svg" alt="Footer"/>
+    				</div>
+    			</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="footer--copyright">
+		<div class="container">
+    		<div class="row">
+    			<div class="col-md-6">    				
+    				<ul>
+						<li><a href="/en/terms-of-use.html" class="footer--copyright--element" target="_self">TERMS OF USE</a></li>
+					
+						<li><a href="/en/privacy-policy.html" class="footer--copyright--element" target="_self">PRIVACY POLICY</a></li>
+					
+						<li><a href="/content/gbb-2021/sg/en/security-advisory.html" class="footer--copyright--element" target="_self">SECURITY ADVISORY</a></li>
+					</ul>	
+    			</div>
+    			<div class="col-md-6">
+    				<div class="footer--address">
+    					<p><span class="small-text">18 Marina Gardens Drive, Singapore 018953</span></p>
+
+    				</div>    	
+    			</div>
+    		</div>
+    	</div>
+	</div>
+	
+	
+	<div class="modal-bg--dark-light">
+		<div class="modal fade full-screen modal--gallery modal--wechat" id="wechatQRCode" tabindex="-1" role="dialog" aria-hidden="true">
+			<div class="modal-dialog  modal-dialog-centered" role="document">
+				<div class="modal-content">
+					<div class="modal-header container">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<i class="gbb-clear"></i>
+						</button>
+					</div>
+					<div class="modal-body">
+						<img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-dependencies/resources/images/mobile-app-download/GB_wechat_QR_code_2_.png" alt="Wechat QR Code"/>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+    	
+</footer>
+</div>
+<div class="gototop aem-GridColumn aem-GridColumn--default--12">
+    
+
+
+<div class="back-to-top component" data-scroll="toTop">
+
+   <img src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/icons-images/back-to-top.svg" alt="Back To Top"/>
+   <span class="d-none">Back To Top</span>
+
+</div>
+</div>
+<div class="notification-component bg--masthead aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+<div class="notification-container" data-component="notification">
+    
+    
+        <div class="notification cookie-notification" data-cookie="notification_540423844">
+            <button type="button" class="close" data-button="acceptCookie">
+                <i class="gbb-clear"></i>
+            </button>
+            <div class="notification-content">
+                <p>We use cookies to gather information and improve your online experience. By accessing and using our website, you agree to this use of cookies. For further details, refer to our <a href="/en/privacy-policy.html">Privacy Policy</a></p>
+
+                
+            </div>
+        </div>
+    
+</div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+
+    
+    
+    
+<script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.0a6aff292f5cc42142779cde92054524.js"></script>
+<script src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-base.min.15989b2581d11a10c85eb9acc6191e74.js"></script>
+<script src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site.min.e5ba9b6d2d172b30adfa71fe9fd16352.js"></script>
+
+
+
+    
+    
+
+
+
+<script src="/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/flipbook/js/flipbook.min.js"></script>
+    
+
+    
+
+    
+    
+    
+
+    
+
+
+</body>
+</html>
